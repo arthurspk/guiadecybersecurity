@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://github.com/arthurspk/guiadevbrasil">
-    <img src="./images/guia.png" alt="Guia Extenso de Programaçãohttps://github.com/arthurspk/guiadevbrasil" width="160" height="160">
+    <img src="./images/guia.png" alt="Guia Extenso de Programação https://github.com/arthurspk/guiadevbrasil" width="160" height="160">
   </a>
   <h1 align="center">Guia de Cyber Security</h1>
 </p>
 
 ## :dart: O guia para alavancar a sua carreira
 
-Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profissional na área de segurança da informação ou se especializar caso você já atue na área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em segurança da informação. 
+Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profissional na área de segurança da informação ou se especializar caso você já atue na área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em segurança da informação, alguns sites ou artigos podem estar em um idioma diferente do seu, porém isso não impede que você consiga realizar a leitura do artigo ou site em questão, você pode utilizar a ferramenta de tradução do Google para traduzir: sites, arquivos, textos.
 
 <sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
@@ -27,7 +27,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 💡 Nossa proposta
 
-> A proposta deste guia é fornecer conteúdos para estudo e ferramentas para guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
+> A proposta deste guia é fornecer conteúdos para seu estudo, para guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
 
 ## :beginner: Para quem está começando agora
 
@@ -40,3 +40,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - Compartilhe o repositório com a sua comunidade
 
 ## 📚 ÍNDICE
+
+[🗺️ Cyber Security roadmap]()
+[Introdução a área de Cyber Security]()
+[]()
