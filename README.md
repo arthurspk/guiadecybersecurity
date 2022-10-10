@@ -79,7 +79,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 ## Introdução a área de Cyber Security
 
 ## Carreiras na área de Cyber Security
-> Nesse tópico você irá conhecer mais sobre as carreiras que você seguir dentro da área de Cyber Security, você encontrará as profissões em conjunto com um artigo ou video explicativo sobre como funciona 
+> Nesse tópico você irá conhecer mais sobre as carreiras que você pode seguir dentro da área de Cyber Security, você encontrará as profissões em conjunto com um artigo ou video explicativo sobre como funciona.
 
 - [Forensics]() <br>
 - [Biometrics]() <br>
