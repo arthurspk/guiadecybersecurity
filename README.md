@@ -43,4 +43,124 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 [🗺️ Cyber Security roadmap]()
 [Introdução a área de Cyber Security]()
+[Carreiras na área de Cyber Security]()
+[Plataforma para aprender Cyber Security]()
+[Sites de noticias de Cyber Security]()
+[Newsletters de Cyber Security]()
+[Testes de segurança de API]()
+[Canais do Youtube]()
+[Motores de busca]()
+[Ferramentas de Mobile]()
+[Podcasts de Cyber Security]()
+[Ferramentas de Hacking Web]()
+[Ferramentas para Pentesting]()
+[Ferramentas para Hardware Hacking]()
+[Capture the Flag]()
+[Sites de Bug Bounty]()
+[Exploitation]()
 []()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[Recomendações de livros]()
+[Cursos de C]()
+[Cursos de MySQL]()
+[Cursos de Linux]()
+[Cursos de Python]()
+[Cursos de Docker]()
+[Cursos de Golang]()
+[Cursos de Assembly]()
+[Cursos de Shell Script]()
+[Cursos de Hardware Hacking]()
+
+## Introdução a área de Cyber Security
+
+## Carreiras na área de Cyber Security
+> Nesse tópico você irá conhecer mais sobre as carreiras que você seguir dentro da área de Cyber Security, você encontrará as profissões em conjunto com um artigo ou video explicativo sobre como funciona 
+
+[Forensics]()
+[Biometrics]()
+[IA Security]()
+[IoT Security]()
+[Cryptography]()
+[Cloud Security]()
+[Fraud Prevention]()
+[Malware Analysis]()
+[Hardware Hacking]()
+[Big Data Security]()
+[Physical Security]()
+[Security Awareness]()
+[Threat Intelligence]()
+[Business Continuity]()
+[Operations Security]()
+[Application Security]()
+[Legal and Regulations]()
+[Communications Security]()
+[Cyber Security Engineer]()
+[Advanced Cyber Analytics]()
+[Vulnerability Management]()
+[Industrial Control Systems]()
+[Privacy and Data Protection]()
+[Data Protection Office (DPO)]()
+[Penetration Testing Engineer]()
+[Security and Risk Assessment]()
+[Identity and Acess Management]()
+[Software Development Security]()
+[Offensive Security (Red Team)]()
+[Defensive Security (Blue Team)]()
+[Incident Handling And Analysis]()
+[Introsuion Detection and Prevention]()
+[Information Security Governance]()
+[Security Frameworks and Standards]()
+[Security Architecture and Design]()
+
+## Plataforma para aprender Cyber Security
+
+## Sites de noticias de Cyber Security
+
+## Newsletters de Cyber Security
+
+## Testes de segurança de API
+
+## Canais do Youtube
+
+## Motores de busca
+
+## Ferramentas de Mobile
+
+## Podcasts de Cyber Security
+
+## Ferramentas de Hacking Web
+
+## Ferramentas para Pentesting
+
+## Ferramentas para Hardware Hacking
+
+## Capture the Flag
+
+## Sites de Bug Bounty
+
+## Exploitation
+
+## Recomendações de livros
+
+## Cursos de C
+
+## Cursos de MySQL
+
+## Cursos de Linux
+
+## Cursos de Python
+
+## Cursos de Docker
+
+## Cursos de Golang
+
+## Cursos de Assembly
+
+## Cursos de Shell Script
+
+## Cursos de Hardware Hacking
