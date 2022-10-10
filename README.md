@@ -81,41 +81,41 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 ## Carreiras na área de Cyber Security
 > Nesse tópico você irá conhecer mais sobre as carreiras que você seguir dentro da área de Cyber Security, você encontrará as profissões em conjunto com um artigo ou video explicativo sobre como funciona 
 
-[Forensics]() <br>
-[Biometrics]() <br>
-[IA Security]() <br>
-[IoT Security]() <br>
-[Cryptography]() <br>
-[Cloud Security]() <br>
-[Fraud Prevention]() <br>
-[Malware Analysis]() <br>
-[Hardware Hacking]() <br>
-[Big Data Security]() <br>
-[Physical Security]() <br>
-[Security Awareness]() <br>
-[Threat Intelligence]() <br>
-[Business Continuity]() <br>
-[Operations Security]() <br>
-[Application Security]() <br>
-[Legal and Regulations]() <br>
-[Communications Security]() <br>
-[Cyber Security Engineer]() <br>
-[Advanced Cyber Analytics]() <br>
-[Vulnerability Management]() <br>
-[Industrial Control Systems]() <br>
-[Privacy and Data Protection]() <br>
-[Data Protection Office (DPO)]() <br>
-[Penetration Testing Engineer]() <br>
-[Security and Risk Assessment]() <br>
-[Identity and Acess Management]() <br>
-[Software Development Security]() <br>
-[Offensive Security (Red Team)]() <br>
-[Defensive Security (Blue Team)]() <br>
-[Incident Handling And Analysis]() <br>
-[Introsuion Detection and Prevention]() <br>
-[Information Security Governance]() <br>
-[Security Frameworks and Standards]() <br>
-[Security Architecture and Design]() <br>
+- [Forensics]() <br>
+- [Biometrics]() <br>
+- [IA Security]() <br>
+- [IoT Security]() <br>
+- [Cryptography]() <br>
+- [Cloud Security]() <br>
+- [Fraud Prevention]() <br>
+- [Malware Analysis]() <br>
+- [Hardware Hacking]() <br>
+- [Big Data Security]() <br>
+- [Physical Security]() <br>
+- [Security Awareness]() <br>
+- [Threat Intelligence]() <br>
+- [Business Continuity]() <br>
+- [Operations Security]() <br>
+- [Application Security]() <br>
+- [Legal and Regulations]() <br>
+- [Communications Security]() <br>
+- [Cyber Security Engineer]() <br>
+- [Advanced Cyber Analytics]() <br>
+- [Vulnerability Management]() <br>
+- [Industrial Control Systems]() <br>
+- [Privacy and Data Protection]() <br>
+- [Data Protection Office (DPO)]() <br>
+- [Penetration Testing Engineer]() <br>
+- [Security and Risk Assessment]() <br>
+- [Identity and Acess Management]() <br>
+- [Software Development Security]() <br>
+- [Offensive Security (Red Team)]() <br>
+- [Defensive Security (Blue Team)]() <br>
+- [Incident Handling And Analysis]() <br>
+- [Introsuion Detection and Prevention]() <br>
+- [Information Security Governance]() <br>
+- [Security Frameworks and Standards]() <br>
+- [Security Architecture and Design]() <br>
 
 ## Plataforma para aprender Cyber Security
 
