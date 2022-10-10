@@ -41,81 +41,81 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 📚 ÍNDICE
 
-[🗺️ Cyber Security roadmap]()
-[Introdução a área de Cyber Security]()
-[Carreiras na área de Cyber Security]()
-[Plataforma para aprender Cyber Security]()
-[Sites de noticias de Cyber Security]()
-[Newsletters de Cyber Security]()
-[Testes de segurança de API]()
-[Canais do Youtube]()
-[Motores de busca]()
-[Ferramentas de Mobile]()
-[Podcasts de Cyber Security]()
-[Ferramentas de Hacking Web]()
-[Ferramentas para Pentesting]()
-[Ferramentas para Hardware Hacking]()
-[Capture the Flag]()
-[Sites de Bug Bounty]()
-[Exploitation]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[Recomendações de livros]()
-[Cursos de C]()
-[Cursos de MySQL]()
-[Cursos de Linux]()
-[Cursos de Python]()
-[Cursos de Docker]()
-[Cursos de Golang]()
-[Cursos de Assembly]()
-[Cursos de Shell Script]()
-[Cursos de Hardware Hacking]()
+[🗺️ Cyber Security roadmap]() <br>
+[Introdução a área de Cyber Security]() <br>
+[Carreiras na área de Cyber Security]() <br>
+[Plataforma para aprender Cyber Security]() <br>
+[Sites de noticias de Cyber Security]() <br>
+[Newsletters de Cyber Security]() <br>
+[Testes de segurança de API]() <br>
+[Canais do Youtube]() <br>
+[Motores de busca]() <br>
+[Ferramentas de Mobile]() <br>
+[Podcasts de Cyber Security]() <br>
+[Ferramentas de Hacking Web]() <br>
+[Ferramentas para Pentesting]() <br>
+[Ferramentas para Hardware Hacking]() <br>
+[Capture the Flag]() <br>
+[Sites de Bug Bounty]() <br>
+[Exploitation]() <br>
+[]() <br>
+[]() <br>
+[]() <br>
+[]() <br>
+[]() <br>
+[]() <br>
+[]() <br>
+[Recomendações de livros]() <br>
+[Cursos de C]() <br>
+[Cursos de MySQL]() <br>
+[Cursos de Linux]() <br>
+[Cursos de Python]() <br>
+[Cursos de Docker]() <br>
+[Cursos de Golang]() <br>
+[Cursos de Assembly]() <br>
+[Cursos de Shell Script]() <br>
+[Cursos de Hardware Hacking]() <br>
 
 ## Introdução a área de Cyber Security
 
 ## Carreiras na área de Cyber Security
 > Nesse tópico você irá conhecer mais sobre as carreiras que você seguir dentro da área de Cyber Security, você encontrará as profissões em conjunto com um artigo ou video explicativo sobre como funciona 
 
-[Forensics]()
-[Biometrics]()
-[IA Security]()
-[IoT Security]()
-[Cryptography]()
-[Cloud Security]()
-[Fraud Prevention]()
-[Malware Analysis]()
-[Hardware Hacking]()
-[Big Data Security]()
-[Physical Security]()
-[Security Awareness]()
-[Threat Intelligence]()
-[Business Continuity]()
-[Operations Security]()
-[Application Security]()
-[Legal and Regulations]()
-[Communications Security]()
-[Cyber Security Engineer]()
-[Advanced Cyber Analytics]()
-[Vulnerability Management]()
-[Industrial Control Systems]()
-[Privacy and Data Protection]()
-[Data Protection Office (DPO)]()
-[Penetration Testing Engineer]()
-[Security and Risk Assessment]()
-[Identity and Acess Management]()
-[Software Development Security]()
-[Offensive Security (Red Team)]()
-[Defensive Security (Blue Team)]()
-[Incident Handling And Analysis]()
-[Introsuion Detection and Prevention]()
-[Information Security Governance]()
-[Security Frameworks and Standards]()
-[Security Architecture and Design]()
+[Forensics]() <br>
+[Biometrics]() <br>
+[IA Security]() <br>
+[IoT Security]() <br>
+[Cryptography]() <br>
+[Cloud Security]() <br>
+[Fraud Prevention]() <br>
+[Malware Analysis]() <br>
+[Hardware Hacking]() <br>
+[Big Data Security]() <br>
+[Physical Security]() <br>
+[Security Awareness]() <br>
+[Threat Intelligence]() <br>
+[Business Continuity]() <br>
+[Operations Security]() <br>
+[Application Security]() <br>
+[Legal and Regulations]() <br>
+[Communications Security]() <br>
+[Cyber Security Engineer]() <br>
+[Advanced Cyber Analytics]() <br>
+[Vulnerability Management]() <br>
+[Industrial Control Systems]() <br>
+[Privacy and Data Protection]() <br>
+[Data Protection Office (DPO)]() <br>
+[Penetration Testing Engineer]() <br>
+[Security and Risk Assessment]() <br>
+[Identity and Acess Management]() <br>
+[Software Development Security]() <br>
+[Offensive Security (Red Team)]() <br>
+[Defensive Security (Blue Team)]() <br>
+[Incident Handling And Analysis]() <br>
+[Introsuion Detection and Prevention]() <br>
+[Information Security Governance]() <br>
+[Security Frameworks and Standards]() <br>
+[Security Architecture and Design]() <br>
 
 ## Plataforma para aprender Cyber Security
 
