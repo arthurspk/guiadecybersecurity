@@ -1305,4 +1305,4 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 ## Certificações para Cyber Security
 
 - [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
-![Logo](https://imgur.com/a/vRUeqiu)
+![Logo](https://i.imgur.com/azUfcQp.png)
