@@ -842,81 +842,94 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## Sites e cursos para aprender C
 
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
+> Cursos para aprender C em Português Brasileiro
+- [Curso de C - eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) <br>
+- [Programação Moderna em C - Papo Binário](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) <br>
+- [Curso de Linguagem C - Pietro Martins](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2) <br>
+- [Curso de Programação C Completo - Programe seu futuro](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA) <br>
+- [Linguagem C - De aluno para aluno](https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW) <br>
+- [Curso de Linguagem C para Iniciantes - John Haste](https://www.youtube.com/playlist?list=PLGgRtySq3SDMLV8ee7p-rA9y032AU3zT8) <br>
+- [Curso de Linguagem C (ANSI)](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob) <br>
+- [Curso - Programação com a Linguagem C para iniciantes](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxHno2S-IiG9-lePyRNOO_E) <br>
+- [Curso de Programação 3 (C Avançado)](https://www.youtube.com/playlist?list=PLxMw67OGLa0kW_TeweK2-9gXRlMLYzC1o) <br>
+- [Curso de C - Diego Moisset](https://www.youtube.com/playlist?list=PLIygiKpYTC_6zHLTjI6cFIRZm1BCT3CuV) <br>
+- [Curso de C e C++](https://www.youtube.com/playlist?list=PL5EmR7zuTn_bONyjFxSO4ZCE-SVVNFGkS) <br>
+- [Curso de Programação em Linguagem C](https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R) <br>
+- [Linguagem C - Curso de Programação Completo para Iniciantes e Profissionais](https://www.youtube.com/playlist?list=PLrqNiweLEMonijPwsHckWX7fVbgT2jS3P) <br>
+- [Curso de Lógica e programação em C](https://www.youtube.com/playlist?list=PLtnFngjANe7EMzARU48QgecpyQdzWapoT) <br>
+
+> Cursos para aprender C em Inglês
+- [C Programming for Beginners](https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e) <br>
+- [C Programming - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) <br>
+- [C Programming & Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) <br>
+- [Programming in C - Jennys](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S) <br>
+- [C Language Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) <br>
+- [freeCodeCamp C / C++](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m) <br>
+- [C Programming Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2) <br>
+- [C Language Tutorial Videos - Mr. Srinivas](https://www.youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh) <br>
+- [Advanced C Programming](https://www.youtube.com/playlist?list=PL7CZ_Xc0qgmJFqNWEt4LIhAPTlT0sCW4C) <br>
+- [Free Online Programming Course in C for Beginners](https://www.youtube.com/playlist?list=PL76809ED684A081F3) <br>
+- [C Programming - Ankpro](https://www.youtube.com/playlist?list=PLUtTaqnx2RJLSUZgv0zp0aNWy9e1cbKd9) <br>
+- [C Programming Tutorials - The New Boston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq) <br>
+- [C Programming - IntelliPaat](https://www.youtube.com/playlist?list=PLVHgQku8Z935hrZwx751XoyqDROH_tYMY) <br>
+- [Learn C programming - edureka!](https://www.youtube.com/playlist?list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9) <br>
+- [C Programming Tutorials - Saurabh Shukla](https://www.youtube.com/playlist?list=PLe_7x5eaUqtWp9fvsxhC4XIkoR3n5A-sF) <br>
 
 ## Sites e cursos para aprender MySQL
 
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
+> Sites para aprender MySQL
+- [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial) <br>
+- [SQLBolt](https://sqlbolt.com/) <br>
+- [LinuxJedi](https://linuxjedi.co.uk/tag/mysql/) <br>
+- [SQLCourse](https://www.sqlcourse.com/) <br>
+- [CodeQuizzes](https://www.codequizzes.com/apache-spark/spark/datasets-spark-sql) <br>
+- [Planet MySQL](https://planet.mysql.com/pt/) <br>
+- [MySQL Learn2torials](https://learn2torials.com/category/mysql) <br>
+- [Learn MySQL, Memrise](https://app.memrise.com/course/700054/learn-mysql/) <br>
+- [Tizag MySQL Tutorials](http://www.tizag.com/mysqlTutorial/) <br>
+- [W3Schools SQL Tutorials](https://www.w3schools.com/sql/) <br>
+- [SQL Basics Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql) <br>
+- [Phptpoint MySQL Tutorial](https://www.phptpoint.com/mysql-tutorial/) <br>
+- [RoseIndia MySQL Tutorials](https://www.roseindia.net/mysql/) <br>
+- [MySQL on Linux Like Geeks](https://likegeeks.com/mysql-on-linux-beginners-tutorial/) <br>
+- [Mastering MySQL by Mark Leith](http://www.markleith.co.uk/) <br>
+- [Tutorials Point MySQL Tutorial](https://www.tutorialspoint.com/mysql/index.htm) <br>
+- [KillerPHP MySQL Video Tutorials](https://www.killerphp.com/mysql/videos/) <br>
+- [PYnative MySQL Database Tutorial](https://pynative.com/python/databases/) <br>
+- [Digital Ocean Basic MySQL Tutorial](https://www.digitalocean.com/community/tags/mysql) <br>
+- [Journal to SQL Authority, Pinal Dave](https://blog.sqlauthority.com/) <br>
+- [MySQL Tutorial, Learn MySQL Fast, Easy and Fun](https://www.mysqltutorial.org/) <br>
+
+> Cursos para aprender MySQL em Português Brasileiro
+
+- [Curso de Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r) <br>
+- [Curso de MySQL - Bóson Treinamentos](https://www.youtube.com/playlist?list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR) <br>
+- [Curso SQL Completo 2022 em 4 horas - Dev Aprender](https://www.youtube.com/watch?v=G7bMwefn8RQ&ab_channel=DevAprender) <br>
+- [Curso de SQL com MySQL (Completo) - Ótavio Miranda](https://www.youtube.com/playlist?list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk) <br>
+- [MySQL - Curso Completo para Iniciantes e Estudantes](https://www.youtube.com/playlist?list=PLOPt_yd2VLWGEnSzO-Sc9MYjs7GZadX1f) <br>
+- [Curso de MySQL - Daves Tecnologia](https://www.youtube.com/playlist?list=PL5EmR7zuTn_ZGtE7A5PJjzQ0u7gicicLK) <br>
+- [Curso de SQL - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUgQUjExcssR3utb3JIX6Kra) <br>
+- [Curso Gratuito MySQL Server](https://www.youtube.com/playlist?list=PLiLrXujC4CW1HSOb8i7j8qXIJmSqX44KH) <br>
+- [Curso de MySQL - Diego Moisset](https://www.youtube.com/playlist?list=PLIygiKpYTC_4KmkW7AKH87nDWtb29jHvN) <br>
+- [Curso completo MySQL WorkBench](https://www.youtube.com/playlist?list=PLq-sApY8QuyeEq4L_ECA7yYgOJH6IUphP) <br>
+- [Curso de MySQL 2022 - IS](https://www.youtube.com/playlist?list=PL-6S8_azQ-MrCeQgZ1ZaD8Be3EVW4wEKx) <br>
+- [MySql/MariaDB - Do básico ao avançado](https://www.youtube.com/playlist?list=PLfvOpw8k80WqyrR7P7fMNREW2Q82xJlpO) <br>
+- [Curso de PHP com MySQL](https://www.youtube.com/playlist?list=PLucm8g_ezqNrkPSrXiYgGXXkK4x245cvV) <br>
+
+> Cursos para aprender MySQL em Inglês
+- [The New Boston MySQL Videos](https://www.youtube.com/playlist?list=PL32BC9C878BA72085) <br>
+- [MySQL For Beginners, Programming With Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA&ab_channel=ProgrammingwithMosh) <br>
+- [Complete MySQL Beginner to Expert](https://www.youtube.com/watch?v=en6YPAgc6WM&ab_channel=FullCourse) <br>
+- [Full MySQL Course for Beginners](https://www.youtube.com/playlist?list=PLyuRouwmQCjlXvBkTfGeDTq79r9_GoMt9) <br>
+- [MySQL Complete Tutorial for Beginners 2022](https://www.youtube.com/playlist?list=PLjVLYmrlmjGeyCPgdHL2vWmEGKxcpsC0E) <br>
+- [SQL for Beginners (MySQL)](https://www.youtube.com/playlist?list=PLUDwpEzHYYLvWEwDxZViN1shP-pGyZdtT) <br>
+- [MySQL Course](https://www.youtube.com/playlist?list=PLBlpUqEneF0-xZ1ctyLVqhwJyoQsyfOsO) <br>
+- [MySQL Tutorial For Beginners - Edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGECN1oA2iXcWFBTRYUxzQG) <br>
+- [MySQL Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIY4auvfxAHS9m_fZJ2wxSse) <br>
+- [MySQL Tutorial for beginner - ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIahlYDqHWZb81qsKgEvPiHn) <br>
+- [MySQL DBA Tutorial - Mughees Ahmed](https://www.youtube.com/playlist?list=PLd5sTGXltJ-l9PKT2Bynhg0Ou2uESOJiH) <br>
+- [MySQL DBA Tutorial - TechBrothers](https://www.youtube.com/playlist?list=PLWf6TEjiiuICV0BARDhRC0JvNKHC5MDEU) <br>
+- [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY&ab_channel=freeCodeCamp.org) <br>
 
 ## Sites e cursos para aprender Linux
 
@@ -1290,3 +1303,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []() -
 
 ## Certificações para Cyber Security
+
+- [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
+![Logo](https://imgur.com/a/vRUeqiu)
