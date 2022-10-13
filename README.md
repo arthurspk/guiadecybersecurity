@@ -39,18 +39,33 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - Discuta ideias em Issues
 - Compartilhe o repositório com a sua comunidade
 
+## 🌍 Tradução
+> Se você deseja acompanhar esse repositório em outro idioma que não seja o Português Brasileiro, você pode optar pelas escolhas de idiomas abaixo, você também pode colaborar com a tradução para outros idiomas e a correções de possíveis erros ortográficos, a comunidade agradece.
+<img src = "https://i.imgur.com/lpP9V2p.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>English — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/GprSvJe.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Spanish — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/4DX1q8l.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Chinese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/6MnAOMg.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Hindi — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/8t4zBFd.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Arabic — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/iOdzTmD.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>French — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/PILSgAO.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Italian — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/0lZOSiy.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Korean — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/3S5pFlQ.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Russian — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/i6DQjZa.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>German — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/wWRZMNK.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Japanese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+
 ## 📚 ÍNDICE
 
 [🗺️ Cyber Security roadmap]() <br>
 [Ferramentas para tradução de conteúdo]() <br>
 [Introdução a área de Cyber Security]() <br>
 [Carreiras na área de Cyber Security]() <br>
-[Sites para estudar Cyber Security]() <br>
+[Plataformas para aprender Cyber Security]() <br>
 [Sites de noticias]() <br>
 [Newsletters]() <br>
+[Awesome Hacking]() <br>
 [Testes de segurança de API]() <br>
 [Canais do Youtube]() <br>
-[Motores de busca]() <br>
+[Ferramentas de busca]() <br>
 [Ferramentas de Mobile]() <br>
 [Podcasts]() <br>
 [Palestras]() <br>
@@ -72,6 +87,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 [Ferramentas para Pentesting]() <br>
 [Ferramentas para Hardware Hacking]() <br>
 [Sites e cursos para aprender C]() <br>
+[Sites e cursos para aprender Go]() <br>
 [Sites e cursos para aprender C#]() <br>
 [Sites e cursos para aprender C++]() <br>
 [Sites e cursos para aprender PHP]() <br>
@@ -84,7 +100,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 [Sites e cursos para aprender Swift]() <br>
 [Sites e cursos para aprender Python]() <br>
 [Sites e cursos para aprender Docker]() <br>
-[Sites e cursos para aprender Golang]() <br>
 [Sites e cursos para aprender Assembly]() <br>
 [Sites e cursos para aprender Powershell]() <br>
 [Sites e cursos para aprender Shell Script]() <br>
@@ -318,7 +333,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow) - Envolve hacking, vídeos de gravação e capture the flags. <br>
 - [The PC Security Channel](https://www.youtube.com/c/thepcsecuritychannel) - Segurança do Windows, notícias sobre malware e tutoriais. <br>
 
-## Motores de busca
+## Ferramentas de busca
 
 - [Dehashed](https://www.dehashed.com/) - Veja as credenciais vazadas. <br>
 - [SecurityTrails](https://securitytrails.com/) - Extensos dados de DNS. <br>
@@ -998,7 +1013,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0&ab_channel=freeCodeCamp.org) <br>
 - [Linux Tutorial for Beginners - Intellipaat](https://www.youtube.com/watch?v=4ZHvZge1Lsw&ab_channel=Intellipaat) <br>
 
-
 ## Sites e cursos para aprender Python
 
 > Sites & E-books para aprender Python
@@ -1164,8 +1178,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Docker Tutorial for Beginners Full Course in 3 Hours](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana) <br>
 - [Docker Tutorial for Beginners Full Course](https://www.youtube.com/watch?v=p28piYY_wv8&ab_channel=Amigoscode) <br>
 
-## Sites e cursos para aprender Golang
+## Sites e cursos para aprender Go
 
+> Sites para aprender Go
 - []() -
 - []() -
 - []() -
