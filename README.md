@@ -110,6 +110,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🗺️ Cyber Security roadmap
 
+![Cyber Security roadmap](https://i.imgur.com/chu6E2G.jpeg)
+
 ## Ferramentas para tradução de conteúdo
 
 - []()
