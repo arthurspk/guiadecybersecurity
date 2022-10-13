@@ -57,111 +57,61 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 ## 📚 ÍNDICE
 
 [🗺️ Cyber Security roadmap]() <br>
-[Ferramentas para tradução de conteúdo]() <br>
-[Introdução a área de Cyber Security]() <br>
-[Carreiras na área de Cyber Security]() <br>
-[Sites para estudar Cyber Security]() <br>
-[Sites de noticias]() <br>
-[Newsletters]() <br>
-[Awesome Hacking]() <br>
-[Testes de segurança de API]() <br>
-[Canais do Youtube]() <br>
-[Ferramentas de busca]() <br>
-[Ferramentas de Mobile]() <br>
-[Podcasts]() <br>
-[Palestras]() <br>
-[CheatSheets]() <br>
-[Exploitation]() <br>
-[Documentários]() <br>
-[Capture the Flag]() <br>
-[Distros de Linux]() <br>
-[Máquinas Virtuais]() <br>
-[Sites de Bug Bounty]() <br>
-[Perfis no Twitter]() <br>
-[Perfis no Instagram]() <br>
-[Comunidades no Reddit]() <br>
-[Comunidades no Discord]() <br>
-[Comunidades no Telegram]() <br>
-[Recomendações de livros]() <br>
-[Frameworks e ferramentas de Hacking Web]() <br>
-[Ferramentas para obter informações]() <br>
-[Ferramentas para Pentesting]() <br>
-[Ferramentas para Hardware Hacking]() <br>
-[Sites e cursos para aprender C]() <br>
-[Sites e cursos para aprender Go]() <br>
-[Sites e cursos para aprender C#]() <br>
-[Sites e cursos para aprender C++]() <br>
-[Sites e cursos para aprender PHP]() <br>
-[Sites e cursos para aprender Java]() <br>
-[Sites e cursos para aprender Ruby]() <br>
-[Sites e cursos para aprender Perl]() <br>
-[Sites e cursos para aprender Bash]() <br>
-[Sites e cursos para aprender MySQL]() <br>
-[Sites e cursos para aprender Linux]() <br>
-[Sites e cursos para aprender Swift]() <br>
-[Sites e cursos para aprender Python]() <br>
-[Sites e cursos para aprender Docker]() <br>
-[Sites e cursos para aprender Assembly]() <br>
-[Sites e cursos para aprender Powershell]() <br>
-[Sites e cursos para aprender Shell Script]() <br>
-[Sites e cursos para aprender Hardware Hacking]() <br>
-[Sites e cursos para aprender Redes de Computadores]() <br>
-[Certificações para Cyber Security]() <br>
+[🔧 Ferramentas para tradução de conteúdo]() <br>
+[🧥 Introdução a área de Cyber Security]() <br>
+[💼 Carreiras na área de Cyber Security]() <br>
+[🕵️‍♂️ Sites para estudar Cyber Security]() <br>
+[📰 Sites de noticias]() <br>
+[📃 Newsletters]() <br>
+[🗃️ Awesome Hacking]() <br>
+[🔗 Testes de segurança de API]() <br>
+[🎥 Canais do Youtube]() <br>
+[🔎 Ferramentas de busca]() <br>
+[📱 Ferramentas de Mobile]() <br>
+[🎤 Podcasts]() <br>
+[📽️ Palestras]() <br>
+[🃏 CheatSheets]() <br>
+[♟️ Exploitation]() <br>
+[🎬 Documentários]() <br>
+[🚩 Capture the Flag]() <br>
+[🐧 Distros de Linux]() <br>
+[💻 Máquinas Virtuais]() <br>
+[💰 Sites de Bug Bounty]() <br>
+[🦤 Perfis no Twitter]() <br>
+[✨ Perfis no Instagram]() <br>
+[🎇 Comunidades no Reddit]() <br>
+[🌌 Comunidades no Discord]() <br>
+[🎆 Comunidades no Telegram]() <br>
+[📚 Recomendações de livros]() <br>
+[🛠️ Frameworks e ferramentas de Hacking Web]() <br>
+[🪓 Ferramentas para obter informações]() <br>
+[🔧 Ferramentas para Pentesting]() <br>
+[🔨 Ferramentas para Hardware Hacking]() <br>
+[🦉 Sites e cursos para aprender C]() <br>
+[🐬 Sites e cursos para aprender Go]() <br>
+[🦚 Sites e cursos para aprender C#]() <br>
+[🐸 Sites e cursos para aprender C++]() <br>
+[🐘 Sites e cursos para aprender PHP]() <br>
+[🦓 Sites e cursos para aprender Java]() <br>
+[🐦 Sites e cursos para aprender Ruby]() <br>
+[🐪 Sites e cursos para aprender Perl]() <br>
+[🐷 Sites e cursos para aprender Bash]() <br>
+[🐴 Sites e cursos para aprender MySQL]() <br>
+[🐧 Sites e cursos para aprender Linux]() <br>
+[🦂 Sites e cursos para aprender Swift]() <br>
+[🐍 Sites e cursos para aprender Python]() <br>
+[🐋 Sites e cursos para aprender Docker]() <br>
+[🐼 Sites e cursos para aprender Assembly]() <br>
+[🦞 Sites e cursos para aprender Powershell]() <br>
+[🐶 Sites e cursos para aprender Shell Script]() <br>
+[🖥️ Sites e cursos para aprender Hardware Hacking]() <br>
+[📡 Sites e cursos para aprender Redes de Computadores]() <br>
+[🎓 Certificações para Cyber Security]() <br>
 
 ## 🗺️ Cyber Security roadmap
 
 ## Ferramentas para tradução de conteúdo
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
 - []()
 - []()
 - []()
@@ -800,60 +750,27 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## Documentários
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [We Are Legion – The Story Of The Hacktivists](https://lnkd.in/dEihGfAg) <br>
+- [The Internet’s Own Boy: The Story Of Aaron Swartz](https://lnkd.in/d3hQVxqp) <br>
+- [Hackers Wanted](https://lnkd.in/du-pMY2R) <br>
+- [Secret History Of Hacking](https://lnkd.in/dnCWU-hp) <br>
+- [Def Con: The Documentary](https://lnkd.in/dPE4jVVA) <br>
+- [Web Warriors](https://lnkd.in/dip22djp) <br>
+- [Risk (2016)](https://lnkd.in/dMgWT-TN) <br>
+- [Zero Days (2016)](https://lnkd.in/dq_gZA8z) <br>
+- [Guardians Of The New World (Hacking Documentary) | Real Stories](https://lnkd.in/dUPybtFd) <br>
+- [A Origem dos Hackers](https://lnkd.in/dUJgG-6J) <br>
+- [The Great Hack](https://lnkd.in/dp-MsrQJ) <br>
+- [The Networks Dilemma](https://lnkd.in/dB6rC2RD) <br>
+- [21st Century Hackers](https://lnkd.in/dvdnZkg5) <br>
+- [Cyber War - Dot of Documentary](https://lnkd.in/dhNTBbbx) <br>
+- [CyberWar Threat - Inside Worlds Deadliest Cyberattack](https://lnkd.in/drmzKJDu) <br>
+- [The Future of Cyberwarfare](https://lnkd.in/dE6_rD5x) <br>
+- [Dark Web Fighting Cybercrime Full Hacking](https://lnkd.in/dByEzTE9) <br>
+- [Cyber Defense: Military Training for Cyber Warfare](https://lnkd.in/dhA8c52h) <br>
+- [Hacker Hunter: WannaCry The History Marcus Hutchin](https://lnkd.in/dnPcnvSv) <br>
+- [The Life Hacker Documentary](https://lnkd.in/djAqBhbw) <br>
+- [Hacker The Realm and Electron - Hacker Group](https://lnkd.in/dx_uyTuT) <br>
 
 ## Capture the Flag
 
