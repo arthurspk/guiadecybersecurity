@@ -1037,33 +1037,38 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🔨 Ferramentas para Hardware Hacking
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Multímetro Digital](http://s.click.aliexpress.com/e/_d8he3mb) <br>
+- [Módulo conversor FT232RL Usb para TTL](http://s.click.aliexpress.com/e/_dSIAjWL) <br>
+- [Ch341A](http://s.click.aliexpress.com/e/_d62fRI3) <br>
+- [Bus Pirate](http://s.click.aliexpress.com/e/_dUPIrJ9) <br>
+- [SOP8 Clip](http://s.click.aliexpress.com/e/_dVZ9XFN) <br>
+- [Arduino Uno R3](http://s.click.aliexpress.com/e/_dW85MoT) <br>
+- [Osciloscópio Instrustar](http://s.click.aliexpress.com/e/_d80YjJl) <br>
+- [Arduino Nano](http://s.click.aliexpress.com/e/_dZj36oL) <br>
+- [Arduino Uno R3](http://s.click.aliexpress.com/e/_dXsrRxz) <br>
+- [Arduino Pro Micro](http://s.click.aliexpress.com/e/_dSSuhuX) <br>
+- [Esp8266](http://s.click.aliexpress.com/e/_dVzK5qj) <br>
+- [Esp32](http://s.click.aliexpress.com/e/_d7orFfH) <br>
+- [Arduino Micro SS](http://s.click.aliexpress.com/e/_d8Vrda3) <br>
+- [Digispark](http://s.click.aliexpress.com/e/_dZfgtbl) <br>
+- [Proxmark3](http://s.click.aliexpress.com/e/_dUTFHmL) <br>
+- [Gravador de RFID](http://s.click.aliexpress.com/e/_dTFhbsX) <br>
+- [Esp8266](http://s.click.aliexpress.com/e/_d8lGkzd) <br>
+- [Analisador Lógico](http://s.click.aliexpress.com/e/_d9e9PDD) <br>
+- [Raspberry Pi 0 W](http://s.click.aliexpress.com/e/_Bf7UqZxN) <br>
+- [Pickit 3]( http://s.click.aliexpress.com/e/_dYwoTqL) <br>
+- [Ft232h](http://s.click.aliexpress.com/e/_dUpL9XN) <br>
+- [Ft232h](http://s.click.aliexpress.com/e/_dVVWLrH) <br>
+- [M5stickC](http://s.click.aliexpress.com/e/_dVbh4T1) <br>
+- [M5 Atom](http://s.click.aliexpress.com/e/_dTaCid5) <br>
+- [Testador de componentes](http://s.click.aliexpress.com/e/_dUBXjzt) <br>
+- [Projeto de testador de componentes](http://s.click.aliexpress.com/e/_d6tbMnv) <br>
+- [Microscópio](http://s.click.aliexpress.com/e/_dZQ8RIj) <br>
+- [Ferro de solda TS100](http://s.click.aliexpress.com/e/_d82rnhh) <br>
+- [RT809h](https://pt.aliexpress.com/item/32747164846.html?spm=a2g0o.productlist.0.0.25cc3923P5cVXZ&algo_pvid=4d740e28-334f-43e9-938d-aee16699cc41&algo_expid=4d740e28-334f-43e9-938d-aee16699cc41-8&btsid=0ab6f82c15912356671523042efcb7&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_) <br>
+- [RTL-SDR](http://s.click.aliexpress.com/e/_dUIw0ll) <br>
+- [Hackrf + Portapack h2](http://s.click.aliexpress.com/e/_dS0V9kf) <br>
+
 
 ## 🦉 Sites e cursos para aprender C
 
@@ -1100,99 +1105,128 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Learn C programming - edureka!](https://www.youtube.com/playlist?list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9) <br>
 - [C Programming Tutorials - Saurabh Shukla](https://www.youtube.com/playlist?list=PLe_7x5eaUqtWp9fvsxhC4XIkoR3n5A-sF) <br>
 
-## Sites e cursos para aprender Go
+## 🐬 Sites e cursos para aprender Go
 
 > Sites para aprender Go
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Onde aprender e estudar GoLang?](https://coodesh.com/blog/candidates/backend/onde-aprender-e-estudar-golang/#:~:text=%E2%8C%A8%EF%B8%8F%20Udemy,11%2C5%20horas%20de%20videoaula.) <br>
+- [Go Lang - School Of Net](https://www.schoolofnet.com/cursos/programacao/go-lang/) <br>
+- [48 horas para aprender Go](https://medium.com/@anapaulagomes/48-horas-para-aprender-go-4542b51d84a4) <br>
+- [Estudo em GoLang: from Zero to Hero com materiais gratuitos!](https://medium.com/hurb-labs/estudo-em-golang-from-zero-to-hero-com-materiais-gratuitos-6be72aeea30f) <br>
+
+> Cursos para aprender Go em Português Brasileiro
+- [Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) <br>
+- [Aprenda Go / Golang (Curso Tutorial de Programação)](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW) <br>
+- [Go Lang do Zero](https://www.youtube.com/playlist?list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg) <br>
+- [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) <br>
+- [Curso Programação Golang](https://www.youtube.com/playlist?list=PLpZslZJHL2Q2hZXShelGADqCR_fcOhF9K)
+
+> Cursos para aprender Go em Espanhol
+- [Curso de Go (Golang)](https://www.youtube.com/playlist?list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp) <br>
+- [Aprendiendo a programar con Go](https://www.youtube.com/playlist?list=PLSAQnrUqbx7sOdjJ5Zsq5FvvYtI8Kc-C5) <br>
+- [Curso Go - de 0 a 100](https://www.youtube.com/playlist?list=PLhdY0D_lA34W1wS2nJmQr-sssMDuQf-r8) <br>
+- [Curso Go - CodigoFacilito](https://www.youtube.com/playlist?list=PLdKnuzc4h6gFmPLeous4S0xn0j9Ik2s3Y) <br>
+- [Curso GO (Golang Español) - De 0 a 100](https://www.youtube.com/playlist?list=PLl_hIu4u7P64MEJpR3eVwQ1l_FtJq4a5g) <br>
+- [Curso de Golang para principiante](https://www.youtube.com/playlist?list=PLm28buT4PAtbsurufxiw9k2asnkin4YLd) <br>
+
+> Cursos para aprender Go em Inglês
+- [Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I&ab_channel=TechWorldwithNana) <br>
+- [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&ab_channel=freeCodeCamp.org) <br>
+- [Backend master class [Golang, Postgres, Docker]](https://www.youtube.com/playlist?list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE) <br>
+- [Let's go with golang](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa) <br>
+- [Go Programming Language Tutorial | Golang Tutorial For Beginners | Go Language Training](https://www.youtube.com/playlist?list=PLS1QulWo1RIaRoN4vQQCYHWDuubEU8Vij) <br>
+- [Golang Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q) <br>
+- [Golang course - Duomly](https://www.youtube.com/playlist?list=PLi21Ag9n6jJJ5bq77cLYpCgOaONcQNqm0) <br>
+- [Golang Course - Evhenii Kozlov](https://www.youtube.com/playlist?list=PLgUAJTkYL6T_-PXWgVFGTkz863zZ_1do0) <br>
+- [Golang Development](https://www.youtube.com/playlist?list=PLzUGFf4GhXBL4GHXVcMMvzgtO8-WEJIoY) <br>
+- [Golang Crash Course](https://www.youtube.com/playlist?list=PL3eAkoh7fypqUQUQPn-bXtfiYT_ZSVKmB) <br>
+- [Golang Course From A to Z - 5 Hours of Video](https://www.youtube.com/playlist?list=PLuMFwYAgU7ii-z4TGGqXh1cJt-Dqnk2eY) <br>
 
 ## 🦚 Sites e cursos para aprender C#
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+> Cursos para aprender C# em Português Brasileiro
+- [Curso de C# - Aprenda o essencial em 5 HORAS](https://www.youtube.com/watch?v=PKMm-cHe56g&ab_channel=VictorLima-GuiadoProgramador) <br>
+- [Curso de Programação C#](https://www.youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi) <br>
+- [Curso C# 2021](https://www.youtube.com/playlist?list=PL50rZONmv8ZTLPRyqb37EoPlBpSmVBJWX) <br>
+- [Curso de C# para Iniciantes](https://www.youtube.com/playlist?list=PLwftZeDnOzt3VMtat5BTJvP_7qgNtRDD8) <br>
+- [Linguagem C#](https://www.youtube.com/playlist?list=PLEdPHGYbHhlcxWx-_LrVVYZ2RRdqltums) <br>
+- [C# - De Novato a Profissional](https://www.youtube.com/playlist?list=PLXik_5Br-zO-rMqpRy5qPG2SLNimKmVCO) <br>
+- [Curso de C#](https://www.youtube.com/playlist?list=PLesCEcYj003SFffgnOcITHnCJavMf0ArD) <br>
+- [Curso de C# - Pildoras Informaticas](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B) <br>
+- [Curso de C# Básico e Avançado](https://www.youtube.com/playlist?list=PLxNM4ef1BpxgRAa5mGXlCoSGyfYau8nZI) <br>
+- [Curso de Programação em C#](https://www.youtube.com/playlist?list=PLO_xIfla8f1wDmI0Vd4YJLKBJhOeQ3xbz) <br>
+- [Curso de Programação com C#](https://www.youtube.com/playlist?list=PLucm8g_ezqNoMPIGWbRJXemJKyoUpTjA1) <br>
+- [Curso Básico de C#](https://www.youtube.com/playlist?list=PL0YuSuacUEWsHR_a22z31bvA2heh7iUgr) <br>
+- [Curso de Desenvolvimento de Sistemas - C# com SQL](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjLIq-eTL8mgROdviCiobs9) <br>
+- [Curso de C# - Diego Moisset](https://www.youtube.com/playlist?list=PLIygiKpYTC_400MCSyUlje1ifmFltonuN) <br>
+- [C# - Programação Orientada a Objetos](https://www.youtube.com/playlist?list=PLfvOpw8k80Wreysmw8fonLCBw8kiiYjIU) <br>
+- [Curso .NET Core C#](https://www.youtube.com/playlist?list=PLs3yd28pfby7WLEdA7GXey47cKZKMrcwS) <br>
+- [Curso de C# com Entity - CSharp com SQL](https://www.youtube.com/playlist?list=PLxNM4ef1BpxgIUUueLguueyhx0UuICC3-) <br>
+- [Curso de C# com MVC e SQL](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxgilp2iFXI4i2if6Qtg6qFZ) <br>
+
+> Cursos para aprender C# em Espanhol
+- [Curso C# de 0 a Experto](https://www.youtube.com/playlist?list=PLvMLybJwXhLEVUlBI2VdmYXPARO2Zwxze) <br>
+- [Tutorial C# - Curso básico](https://www.youtube.com/playlist?list=PLM-p96nOrGcakia6TWllPW9lkQmB2g-yX) <br>
+- [Aprende a programar en C# desde CERO](https://www.youtube.com/playlist?list=PL8gxzfBmzgexdFa0XZZSZZn2Ogx3j-Qd5) <br>
+
+> Cursos para aprender C# em Inglês
+- [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8&ab_channel=freeCodeCamp.org) <br>
+- [C# Full Course - Learn C# 10 and .NET 6 in 7 hours](https://www.youtube.com/watch?v=q_F4PyW8GTg&ab_channel=tutorialsEU) <br>
+- [C# Tutorial: Full Course for Beginners](https://www.youtube.com/watch?v=wxznTygnRfQ&ab_channel=BroCode) <br>
+- [C# Fundamentals for Beginners](https://www.youtube.com/watch?v=0QUgvfuKvWU&ab_channel=MicrosoftDeveloper) <br>
+- [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY&ab_channel=ProgrammingwithMosh) <br>
+- [C# for Beginners | Full 2-hour course](https://www.youtube.com/watch?v=Z5JS36NlJiU&ab_channel=dotnet) <br>
+- [C# Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=qOruiBrXlAw&ab_channel=CalebCurry) <br>
+- [Create a C# Application from Start to Finish - Complete Course](https://www.youtube.com/watch?v=wfWxdh-_k_4&ab_channel=freeCodeCamp.org) <br>
+- [C# Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRIXCJGLd4UzqH34uCclOFwC) <br>
+- [C# Mastery Course](https://www.youtube.com/playlist?list=PLrW43fNmjaQVSmaezCeU-Hm4sMs2uKzYN) <br>
+- [C# Full Course Beginner to Advanced](https://www.youtube.com/playlist?list=PLq5Uz3LSFff8GmtFeoXRZCtWBKQ0kWl-H) <br>
+- [C# Tutorial For Beginners & Basics - Full Course 2022](https://www.youtube.com/playlist?list=PL82C6-O4XrHfoN_Y4MwGvJz5BntiL0z0D) <br>
+- [C# for Beginners Course](https://www.youtube.com/playlist?list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di) <br>
+- [C# tutorial for beginners](https://www.youtube.com/playlist?list=PLAC325451207E3105) <br>
+- [C# Online Training](https://www.youtube.com/playlist?list=PLWPirh4EWFpFYePpf3E3AI8LT4NInNoIM) <br>
+- [C# Training](https://www.youtube.com/playlist?list=PLEiEAq2VkUULDJ9tZd3lc0rcH4W5SNSoW) <br>
+- [C# for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN) <br>
+- [C# - Programming Language | Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpNIBTYHNDrhfE9C-imUXCmk) <br>
+- [C#.NET Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef) <br>
 
 ## 🐸 Sites e cursos para aprender C++
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+> Cursos para aprender C++ em Português Brasileiro
+- [Curso C++ - eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo) <br>
+- [Curso de C e C++ - Daves Tecnologia](https://www.youtube.com/playlist?list=PL5EmR7zuTn_bONyjFxSO4ZCE-SVVNFGkS) <br>
+- [Curso Programação em C/C++](https://www.youtube.com/playlist?list=PLC9E87254BD7A875B) <br>
+- [Curso C++ para iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL13Dkn5eEfmG9TmzPpTp0cV) <br>
+- [Curso de C++ e C#](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxhro_xZd-PCUDUsgg8tZFKh) <br>
+- [Curso C++](https://www.youtube.com/playlist?list=PL6xP0t6HQYWcUPcXLu2XTZ3gOCJSmolgO) <br>
+- [Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) <br>
+
+> Cursos para aprender C++ em Espanhol
+- [Programación en C++](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJlUu1rEHLC0i_oibctkl0Vh) <br>
+- [Curso en C++ para principiantes](https://www.youtube.com/playlist?list=PLDfQIFbmwhreSt6Rl2PbDpGuAEqOIPmEu) <br>
+- [C++ desde cero](https://www.youtube.com/playlist?list=PLAzlSdU-KYwWsM0FgOs4Jqwnr5zhHs0wU) <br>
+- [Curso de Interfaces Graficas en C/C++](https://www.youtube.com/playlist?list=PLYA44wBp7zVTiCJiXIC5H5OkMOXptxLOI) <br>
+
+> Cursos para aprender C++ em Inglês
+- [C++ Programming Course - Beginner to Advanced 31 hours](https://www.youtube.com/watch?v=8jLOx1hD3_o&ab_channel=freeCodeCamp.org) <br> <br>
+- [C++ Full Course For Beginners (Learn C++ in 10 hours)](https://www.youtube.com/watch?v=GQp1zzTwrIg&ab_channel=CodeBeauty) <br> <br>
+- [C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://www.youtube.com/watch?v=ZzaPdXTrSb8&ab_channel=ProgrammingwithMosh) <br> <br>
+- [C++ Tutorial: Full Course for Beginners](https://www.youtube.com/watch?v=-TkoO8Z07hI&ab_channel=BroCode) <br> <br>
+- [C++ Tutorial for Beginners - Complete Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y&ab_channel=freeCodeCamp.org) <br> <br>
+- [C++ Programming All-in-One Tutorial Series (10 HOURS!)](https://www.youtube.com/watch?v=_bYFu9mBnr4&ab_channel=CalebCurry) <br> <br>
+- [C++ Full Course 2022](https://www.youtube.com/watch?v=SYd5F4gIH90&ab_channel=Simplilearn) <br> <br>
+- [C++ Crash Course](https://www.youtube.com/watch?v=uhFpPlMsLzY&ab_channel=BroCode) <br> <br>
+- [C++ - The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) <br> <br>
+- [C++ Full Course | C++ Tutorial | Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) <br> <br>
+- [C++ Programming - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS) <br> <br>
+- [C++ Complete Course](https://www.youtube.com/playlist?list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee) <br> <br>
+- [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) <br> <br>
+- [C++ Online Training](https://www.youtube.com/playlist?list=PLWPirh4EWFpGDG3--IKMLPoYrgfuhaz_t) <br> <br>
+- [C / C++ - freeCodeCamp Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m) <br> <br>
+- [C++ Modern Tutorials](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA) <br> <br>
 
 ## 🐘 Sites e cursos para aprender PHP
 
+> Cursos para aprender PHP em Português Brasileiro
 - []()
 - []()
 - []()
@@ -1207,7 +1241,22 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []()
 - []()
 - []()
+
+> Cursos para aprender PHP em Espanhol
 - []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+> Cursos para aprender PHP em Inglês
 - []()
 - []()
 - []()
