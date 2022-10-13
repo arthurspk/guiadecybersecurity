@@ -59,7 +59,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 [Ferramentas para tradução de conteúdo]() <br>
 [Introdução a área de Cyber Security]() <br>
 [Carreiras na área de Cyber Security]() <br>
-[Plataformas para aprender Cyber Security]() <br>
+[Sites para estudar Cyber Security]() <br>
 [Sites de noticias]() <br>
 [Newsletters]() <br>
 [Awesome Hacking]() <br>
@@ -106,6 +106,65 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 [Sites e cursos para aprender Hardware Hacking]() <br>
 [Sites e cursos para aprender Redes de Computadores]() <br>
 [Certificações para Cyber Security]() <br>
+
+## 🗺️ Cyber Security roadmap
+
+## Ferramentas para tradução de conteúdo
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ## Introdução a área de Cyber Security
 > Também chamada de segurança de computadores ou segurança da tecnologia da informação, a cybersecurity é a prática de proteção de hardwares e softwares contra roubo ou danos, como servidores, dispositivos móveis, redes e aplicativos, as pessoas que atuam na área de Cyber Security de uma empresa são responsáveis por identificar todos os pontos vulneráveis do negócio no ambiente digital e em variados sistemas, o trabalho consiste em mapear todos os pontos fracos, que podem ser usados como porta de acesso para ataques virtuais. Além disso, é importante simular todos os possíveis ataques que poderiam ser realizados e criar proteções contra eles, antevendo os fatos para poder reforçar a segurança das informações e a redundância dos processos e sistemas de bancos de dados, a fim de evitar que haja interrupção de serviços, de uma forma geral, é esperado que as pessoas que trabalham com Cyber Security realizem uma série de atividades, tais como:
@@ -160,26 +219,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Information Security Governance](https://www.ukcybersecuritycouncil.org.uk/qualifications-and-careers/careers-route-map/cyber-security-governance-risk-management/) <br>
 - [Security Frameworks and Standards](https://www.linkedin.com/pulse/overview-cyber-security-frameworks-standards-tommy/) <br>
 - [Security Architecture and Design](https://www.infosectrain.com/blog/roles-and-responsibilities-of-a-security-architect/#:~:text=A%20Security%20Architect%20creates%2C%20plans,%2C%20cybersecurity%2C%20and%20risk%20management.) <br>
-
-## Plataformas para aprender Cyber Security
-
-- [HackXpert](https://hackxpert.com/) - Laboratórios e treinamentos gratuitos. <br>
-- [TryHackMe](https://tryhackme.com/) - Exercícios práticos e laboratórios. <br>
-- [CyberSecLabs](https://www.cyberseclabs.co.uk/) - Laboratórios de treinamento de alta qualidade. <br>
-- [Cybrary](https://www.cybrary.it/) - Vídeos, laboratórios e exames práticos. <br>
-- [LetsDefend](https://letsdefend.io/) - Plataforma de treinamento da blue team. <br>
-- [Root Me](https://www.root-me.org/) - Mais de 400 desafios de cyber security. <br>
-- [RangeForce](https://www.rangeforce.com/) - Plataforma interativa e prática.  <br>
-- [Certified Secure](https://www.certifiedsecure.com/frontpage) - Muitos desafios diferentes. <br>
-- [Vuln Machines](https://www.vulnmachines.com/) - Cenários do mundo real para praticar. <br>
-- [Try2Hack](https://try2hack.me/) - Jogue um jogo baseado nos ataques reais. <br>
-- [TCM Security](https://academy.tcm-sec.com/) - Cursos de nível básico para cyber security. <br>
-- [EchoCTF](https://echoctf.red/) - Treine suas habilidades ofensivas e defensivas. <br>
-- [Hack The Box](https://www.hackthebox.com/) - Plataforma online de treinamento em cyber security. <br>
-- [Vuln Hub](https://www.vulnhub.com/) - Material para experiência prática. <br>
-- [OverTheWire](https://overthewire.org/wargames/) - Aprenda conceitos de segurança por meio de desafios. <br>
-- [PentesterLab](https://pentesterlab.com/) - Aprenda testes de penetração de aplicativos da web. <br>
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Amplo material didático. <br>
 
 ## Sites de noticias de Cyber Security
 
@@ -251,6 +290,63 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [AdvisoryWeek](https://advisoryweek.com/) - Resumos de consultoria de segurança dos principais fornecedores. <br>
 - [tl;dr sec Newsletter](https://tldrsec.com/) - Ferramentas, posts em blogs, conferências e pesquisas. <br>
 
+## Awesome Hacking
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ## Testes de segurança de API
 
 > Cursos, videos, artigos, blogs, podcast sobre testes de segurança de API em Português Brasileiro
@@ -283,6 +379,55 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Analyzing The OWASP API Security Top 10 For Pen Testers](https://www.youtube.com/watch?v=5UTHUZ3NGfw&ab_channel=SANSOffensiveOperations) <br>
 - [Finding and Exploiting Unintended Functionality in Main Web App APIs](https://bendtheory.medium.com/finding-and-exploiting-unintended-functionality-in-main-web-app-apis-6eca3ef000af) <br>
 - [API Security: The Complete Guide to Threats, Methods & Tools](https://brightsec.com/blog/api-security/) <br>
+
+## Canais do Youtube
+
+- [Mente binária](https://www.youtube.com/c/PapoBin%C3%A1rio) - Contéudo geral sobre Cyber Security <br>
+- [Guia Anônima](https://www.youtube.com/user/adsecf) - Contéudo geral sobre Cyber Security <br>
+- [Hak5](https://www.youtube.com/c/hak5) - Contéudo geral sobre Cyber Security <br>
+- [The XSS rat](https://www.youtube.com/c/TheXSSrat) - Tudo sobre Bug Bounty <br>
+- [ITProTV](https://www.youtube.com/c/ItproTv) - Contéudo geral sobre Cyber Security <br>
+- [Infosec](https://www.youtube.com/c/InfoSecInstitute) - Conscientização sobre Cyber Security <br>
+- [Cyrill Gössi](https://www.youtube.com/channel/UCp1rLlh9AQN9Pejzbg9dcAg) - Vídeos de criptografia. <br>
+- [DC CyberSec](https://www.youtube.com/c/DCcybersec) - Contéudo geral sobre Cyber Security <br>
+- [Black Hat](https://www.youtube.com/c/BlackHatOfficialYT) - Conferências técnicas de cibersegurança. <br>
+- [David Bombal](https://www.youtube.com/c/DavidBombal) - Tudo relacionado à segurança cibernética. <br>
+- [Outpost Gray](https://www.youtube.com/c/OutpostGray) - Desenvolvimento de carreira em segurança cibernética. <br>
+- [Bugcrowd](https://www.youtube.com/c/Bugcrowd) - Metodologias de Bug Bounty e entrevistas. <br>
+- [Network Chuck](https://www.youtube.com/c/NetworkChuck) - Tudo relacionado à segurança cibernética. <br>
+- [Professor Messer](https://www.youtube.com/c/professormesser) - Guias cobrindo certificações. <br>
+- [Cyberspatial](https://www.youtube.com/c/Cyberspatial) - Educação e treinamento em segurança cibernética. <br>
+- [OWASP Foundation](https://www.youtube.com/c/OWASPGLOBAL) - Conteúdo de segurança de aplicativos da Web. <br>
+- [Nahamsec](https://www.youtube.com/c/Nahamsec) - Vídeos educativos sobre hackers e bug bounty. <br>
+- [Computerphile](https://www.youtube.com/user/Computerphile) - Abrange conceitos e técnicas básicas. <br>
+- [InfoSec Live](https://www.youtube.com/c/infoseclive) - Tudo, desde tutoriais a entrevistas. <br>
+- [InsiderPHD](https://www.youtube.com/c/InsiderPhD) - Como começar a caçar bugs. <br>
+- [Security Weekly](https://www.youtube.com/c/SecurityWeekly) - Entrevistas com figuras de segurança cibernética. <br>
+- [Hack eXPlorer](https://www.youtube.com/c/HackeXPlorer) - Tutoriais gerais, dicas e técnicas. <br>
+- [Cyber CDH](https://www.youtube.com/c/cybercdh) - Ferramentas, táticas e técnicas de segurança cibernética. <br>
+- [John Hammond](https://www.youtube.com/c/JohnHammond010) - Análise de malware, programação e carreiras. <br>
+- [SANS Offensive Operations](https://www.youtube.com/c/SANSOffensiveOperations) - Vídeos técnicos de segurança cibernética. <br>
+- [13Cubed](https://www.youtube.com/c/13cubed) - Vídeos sobre ferramentas, análise forense e resposta a incidentes. <br>
+- [HackerSploit](https://www.youtube.com/c/HackerSploit) - Teste de penetração, hacking de aplicativos da web. <br>
+- [Z-winK University](https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ) - Educação e demonstrações de bug bountys. <br>
+- [Peter Yaworski](https://www.youtube.com/c/yaworsk1) - Dicas e entrevistas de hacking de aplicativos da Web. <br>
+- [IppSec](https://www.youtube.com/c/ippsec) - Laboratórios e tutoriais de capture the flag, HackTheBox etc. <br>
+- [Pentester Academy TV](https://www.youtube.com/c/PentesterAcademyTV) - Discussões e ataques demonstrativos. <br>
+- [BlackPerl](https://www.youtube.com/c/BlackPerl) - Análise de malware, análise forense e resposta a incidentes. <br>
+- [Offensive Security](https://www.youtube.com/c/OffensiveSecurityTraining) - Conteúdo educacional e orientações de laboratório. <br>
+- [Day Cyberwox](https://www.youtube.com/c/DayCyberwox) - Conteúdo útil de segurança na nuvem e orientações. <br>
+- [DEFCONConference](https://www.youtube.com/user/DEFCONConference) - Tudo do evento de segurança cibernética DEF CON. <br>
+- [STÖK](https://www.youtube.com/c/STOKfredrik) - Vídeos sobre ferramentas, análise de vulnerabilidades e metodologia. <br>
+- [MalwareTechBlog](https://www.youtube.com/c/MalwareTechBlog)- Conteúdo de segurança cibernética e engenharia reversa. <br>
+- [The Hated One](https://www.youtube.com/c/TheHatedOne) - Pesquisa que explica as concepções de segurança cibernética. <br>
+- [Simply Cyber](https://www.youtube.com/c/GeraldAuger) - Ajuda as pessoas com o desenvolvimento de carreira de segurança cibernética. <br>
+- [Black Hills Information Security](https://www.youtube.com/c/BlackHillsInformationSecurity) - Contéudo geral sobre Cyber Security <br>
+- [Security Now](https://www.youtube.com/c/securitynow) - Notícias de crimes cibernéticos, hackers e segurança de aplicativos da web. <br>
+- [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor) - Hacking ético, hacking de aplicativos da web e ferramentas. <br>
+- [Joe Collins](https://www.youtube.com/user/BadEditPro) - Tudo relacionado ao Linux, incluindo tutoriais e guias. <br>
+- [Null Byte](https://www.youtube.com/c/NullByteWHT) - Segurança cibernética para hackers éticos e cientistas da computação. <br>
+- [LiveOverflow](https://www.youtube.com/c/LiveOverflow) - Envolve hacking, vídeos de gravação e capture the flags. <br>
+- [The PC Security Channel](https://www.youtube.com/c/thepcsecuritychannel) - Segurança do Windows, notícias sobre malware e tutoriais. <br>
 
 ## Canais do Youtube
 
@@ -368,60 +513,60 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## Ferramentas de Mobile
 
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ## Podcasts de Cyber Security
 
@@ -481,331 +626,521 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Cyber Security Headlines by the CISO Series](https://cisoseries.com/category/podcast/cyber-security-headlines/) <br>
 - [SANS Internet Stormcenter Daily Cyber Podcast](https://podcasts.apple.com/us/podcast/sans-internet-stormcenter-daily-cyber-security-podcast/id304863991) <br>
 
-## Frameworks e ferramentas de Hacking Web
+## Palestras
 
-- [Burp Suite](https://portswigger.net/burp) - Framework. <br>
-- [ZAP Proxy](https://www.zaproxy.org/) - Framework. <br>
-- [Dirsearch](https://github.com/maurosoria/dirsearch) - HTTP bruteforcing. <br>
-- [Nmap](https://nmap.org/) - Port scanning. <br>
-- [Sublist3r](https://github.com/aboul3la/Sublist3r) - Subdomain discovery. <br>
-- [Amass](https://github.com/OWASP/Amass) - Subdomain discovery. <br>
-- [SQLmap](https://sqlmap.org/) - SQLi exploitation. <br>
-- [Metasploit](https://www.metasploit.com/) - Framework <br>
-- [WPscan](https://wpscan.com/wordpress-security-scanner) - WordPress exploitation. <br>
-- [Nikto](https://github.com/sullo/nikto) - Webserver scanning. <br>
-- [HTTPX](https://github.com/projectdiscovery/httpx) - HTTP probing. <br>
-- [Nuclei](https://github.com/projectdiscovery/nuclei) - YAML based template scanning. <br>
-- [FFUF](https://github.com/ffuf/ffuf) - HTTP probing. <br>
-- [Subfinder](https://github.com/projectdiscovery/subfinder) - Subdomain discovery. <br>
-- [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP and port scanner. <br>
-- [Lazy Recon](https://github.com/nahamsec/lazyrecon) - Subdomain discovery. <br>
-- [XSS Hunter](https://xsshunter.com/) - Blind XSS discovery. <br>
-- [Aquatone](https://github.com/michenriksen/aquatone) - HTTP based recon. <br>
-- [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - Endpoint discovery through JS files. <br>
-- [JS-Scan](https://github.com/0x240x23elu/JSScanner) - Endpoint discovery through JS files. <br>
-- [Parameth](https://github.com/maK-/parameth) - Bruteforce GET and POST parameters. <br>
-- [truffleHog](https://github.com/trufflesecurity/trufflehog) - Encontrar credenciais em commits do GitHub. <br>
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
-## Ferramentas para obter informações
+## CheatSheets
 
-- [theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomínios e nomes Harvester. <br>
-- [CTFR](https://github.com/UnaPibaGeek/ctfr) - Abusando de logs de transparência de certificado para obter subdomínios de sites HTTPS. <br>
-- [Sn1per](https://github.com/1N3/Sn1per) - Scanner automatizado de reconhecimento de pentest. <br>
-- [RED Hawk](https://github.com/Tuhinshubhra/RED_HAWK) - Tudo em uma ferramenta para coleta de informações, verificação de vulnerabilidades e rastreamento. Uma ferramenta obrigatória para todos os testadores de penetração. <br>
-- [Infoga](https://github.com/m4ll0k/Infoga) - Coleta de informações de e-mail. <br>
-- [KnockMail](https://github.com/4w4k3/KnockMail) - Verifique se o endereço de e-mail existe. <br>
-- [a2sv](https://github.com/hahwul/a2sv) - Verificação automática para vulnerabilidade SSL. <br>
-- [Wfuzz](https://github.com/xmendez/wfuzz) - Fuzzer de aplicativos da web. <br>
-- [Nmap](https://github.com/nmap/nmap) - Uma ferramenta muito comum. Host de rede, vuln e detector de porta. <br>
-- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - 	Uma estrutura OSINT para números de telefone. <br>
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-
-## Ferramentas para Pentesting
-
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-
-## Ferramentas para Hardware Hacking
-
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-
-## Capture the Flag
-
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-
-## Sites de Bug Bounty
-
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ## Exploitation
 
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Documentários
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Capture the Flag
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Distros de Linux
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Máquinas Virtuais
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Sites de Bug Bounty
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Perfis no Twitter
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Perfis no Instagram
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Comunidades no Reddit
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Comunidades no Discord
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Comunidades no Telegram
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ## Recomendações de livros
 
@@ -890,6 +1225,350 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Learn C programming - edureka!](https://www.youtube.com/playlist?list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9) <br>
 - [C Programming Tutorials - Saurabh Shukla](https://www.youtube.com/playlist?list=PLe_7x5eaUqtWp9fvsxhC4XIkoR3n5A-sF) <br>
 
+## Frameworks e ferramentas de Hacking Web
+
+- [Burp Suite](https://portswigger.net/burp) - Framework. <br>
+- [ZAP Proxy](https://www.zaproxy.org/) - Framework. <br>
+- [Dirsearch](https://github.com/maurosoria/dirsearch) - HTTP bruteforcing. <br>
+- [Nmap](https://nmap.org/) - Port scanning. <br>
+- [Sublist3r](https://github.com/aboul3la/Sublist3r) - Subdomain discovery. <br>
+- [Amass](https://github.com/OWASP/Amass) - Subdomain discovery. <br>
+- [SQLmap](https://sqlmap.org/) - SQLi exploitation. <br>
+- [Metasploit](https://www.metasploit.com/) - Framework <br>
+- [WPscan](https://wpscan.com/wordpress-security-scanner) - WordPress exploitation. <br>
+- [Nikto](https://github.com/sullo/nikto) - Webserver scanning. <br>
+- [HTTPX](https://github.com/projectdiscovery/httpx) - HTTP probing. <br>
+- [Nuclei](https://github.com/projectdiscovery/nuclei) - YAML based template scanning. <br>
+- [FFUF](https://github.com/ffuf/ffuf) - HTTP probing. <br>
+- [Subfinder](https://github.com/projectdiscovery/subfinder) - Subdomain discovery. <br>
+- [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP and port scanner. <br>
+- [Lazy Recon](https://github.com/nahamsec/lazyrecon) - Subdomain discovery. <br>
+- [XSS Hunter](https://xsshunter.com/) - Blind XSS discovery. <br>
+- [Aquatone](https://github.com/michenriksen/aquatone) - HTTP based recon. <br>
+- [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - Endpoint discovery through JS files. <br>
+- [JS-Scan](https://github.com/0x240x23elu/JSScanner) - Endpoint discovery through JS files. <br>
+- [Parameth](https://github.com/maK-/parameth) - Bruteforce GET and POST parameters. <br>
+- [truffleHog](https://github.com/trufflesecurity/trufflehog) - Encontrar credenciais em commits do GitHub. <br>
+
+## Ferramentas para obter informações
+
+- [theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomínios e nomes Harvester. <br>
+- [CTFR](https://github.com/UnaPibaGeek/ctfr) - Abusando de logs de transparência de certificado para obter subdomínios de sites HTTPS. <br>
+- [Sn1per](https://github.com/1N3/Sn1per) - Scanner automatizado de reconhecimento de pentest. <br>
+- [RED Hawk](https://github.com/Tuhinshubhra/RED_HAWK) - Tudo em uma ferramenta para coleta de informações, verificação de vulnerabilidades e rastreamento. Uma ferramenta obrigatória para todos os testadores de penetração. <br>
+- [Infoga](https://github.com/m4ll0k/Infoga) - Coleta de informações de e-mail. <br>
+- [KnockMail](https://github.com/4w4k3/KnockMail) - Verifique se o endereço de e-mail existe. <br>
+- [a2sv](https://github.com/hahwul/a2sv) - Verificação automática para vulnerabilidade SSL. <br>
+- [Wfuzz](https://github.com/xmendez/wfuzz) - Fuzzer de aplicativos da web. <br>
+- [Nmap](https://github.com/nmap/nmap) - Uma ferramenta muito comum. Host de rede, vuln e detector de porta. <br>
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - 	Uma estrutura OSINT para números de telefone. <br>
+
+## Ferramentas para Pentesting
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Ferramentas para Hardware Hacking
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Sites e cursos para aprender C
+
+> Cursos para aprender C em Português Brasileiro
+- [Curso de C - eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) <br>
+- [Programação Moderna em C - Papo Binário](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) <br>
+- [Curso de Linguagem C - Pietro Martins](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2) <br>
+- [Curso de Programação C Completo - Programe seu futuro](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA) <br>
+- [Linguagem C - De aluno para aluno](https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW) <br>
+- [Curso de Linguagem C para Iniciantes - John Haste](https://www.youtube.com/playlist?list=PLGgRtySq3SDMLV8ee7p-rA9y032AU3zT8) <br>
+- [Curso de Linguagem C (ANSI)](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob) <br>
+- [Curso - Programação com a Linguagem C para iniciantes](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxHno2S-IiG9-lePyRNOO_E) <br>
+- [Curso de Programação 3 (C Avançado)](https://www.youtube.com/playlist?list=PLxMw67OGLa0kW_TeweK2-9gXRlMLYzC1o) <br>
+- [Curso de C - Diego Moisset](https://www.youtube.com/playlist?list=PLIygiKpYTC_6zHLTjI6cFIRZm1BCT3CuV) <br>
+- [Curso de C e C++](https://www.youtube.com/playlist?list=PL5EmR7zuTn_bONyjFxSO4ZCE-SVVNFGkS) <br>
+- [Curso de Programação em Linguagem C](https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R) <br>
+- [Linguagem C - Curso de Programação Completo para Iniciantes e Profissionais](https://www.youtube.com/playlist?list=PLrqNiweLEMonijPwsHckWX7fVbgT2jS3P) <br>
+- [Curso de Lógica e programação em C](https://www.youtube.com/playlist?list=PLtnFngjANe7EMzARU48QgecpyQdzWapoT) <br>
+
+> Cursos para aprender C em Inglês
+- [C Programming for Beginners](https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e) <br>
+- [C Programming - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) <br>
+- [C Programming & Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) <br>
+- [Programming in C - Jennys](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S) <br>
+- [C Language Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) <br>
+- [freeCodeCamp C / C++](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m) <br>
+- [C Programming Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2) <br>
+- [C Language Tutorial Videos - Mr. Srinivas](https://www.youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh) <br>
+- [Advanced C Programming](https://www.youtube.com/playlist?list=PL7CZ_Xc0qgmJFqNWEt4LIhAPTlT0sCW4C) <br>
+- [Free Online Programming Course in C for Beginners](https://www.youtube.com/playlist?list=PL76809ED684A081F3) <br>
+- [C Programming - Ankpro](https://www.youtube.com/playlist?list=PLUtTaqnx2RJLSUZgv0zp0aNWy9e1cbKd9) <br>
+- [C Programming Tutorials - The New Boston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq) <br>
+- [C Programming - IntelliPaat](https://www.youtube.com/playlist?list=PLVHgQku8Z935hrZwx751XoyqDROH_tYMY) <br>
+- [Learn C programming - edureka!](https://www.youtube.com/playlist?list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9) <br>
+- [C Programming Tutorials - Saurabh Shukla](https://www.youtube.com/playlist?list=PLe_7x5eaUqtWp9fvsxhC4XIkoR3n5A-sF) <br>
+
+## Sites e cursos para aprender Go
+
+> Sites para aprender Go
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Sites e cursos para aprender C#
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Sites e cursos para aprender C++
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Sites e cursos para aprender PHP
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Sites e cursos para aprender Java
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Sites e cursos para aprender Ruby
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Sites e cursos para aprender Perl
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ## Sites e cursos para aprender MySQL
 
 > Sites para aprender MySQL
@@ -945,6 +1624,36 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [MySQL DBA Tutorial - Mughees Ahmed](https://www.youtube.com/playlist?list=PLd5sTGXltJ-l9PKT2Bynhg0Ou2uESOJiH) <br>
 - [MySQL DBA Tutorial - TechBrothers](https://www.youtube.com/playlist?list=PLWf6TEjiiuICV0BARDhRC0JvNKHC5MDEU) <br>
 - [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY&ab_channel=freeCodeCamp.org) <br>
+
+## Sites e cursos para aprender Bash
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ## Sites e cursos para aprender Linux
 
@@ -1012,6 +1721,36 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=ZtqBQ68cfJc&ab_channel=freeCodeCamp.org) <br>
 - [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0&ab_channel=freeCodeCamp.org) <br>
 - [Linux Tutorial for Beginners - Intellipaat](https://www.youtube.com/watch?v=4ZHvZge1Lsw&ab_channel=Intellipaat) <br>
+
+## Sites e cursos para aprender Swift 
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ## Sites e cursos para aprender Python
 
@@ -1178,146 +1917,158 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Docker Tutorial for Beginners Full Course in 3 Hours](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana) <br>
 - [Docker Tutorial for Beginners Full Course](https://www.youtube.com/watch?v=p28piYY_wv8&ab_channel=Amigoscode) <br>
 
-## Sites e cursos para aprender Go
-
-> Sites para aprender Go
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-
 ## Sites e cursos para aprender Assembly
 
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Sites e cursos para aprender Powershell
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ## Sites e cursos para aprender Shell Script
 
 - [Curso de Shell Scripting - Programação no Linux](https://www.youtube.com/playlist?list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs)  <br>
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ## Sites e cursos para aprender Hardware Hacking
 
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Sites e cursos para aprender Redes de Computadores
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ## Certificações para Cyber Security
 
 - [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
-![Logo](https://i.imgur.com/azUfcQp.png)
+  ![Logo](https://i.imgur.com/azUfcQp.png)
