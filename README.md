@@ -40,7 +40,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - Compartilhe o repositório com a sua comunidade
 
 ## 🌍 Tradução
-> Se você deseja acompanhar esse repositório em outro idioma que não seja o Português Brasileiro, você pode optar pelas escolhas de idiomas abaixo, você também pode colaborar com a tradução para outros idiomas e a correções de possíveis erros ortográficos, a comunidade agradece.
+> Se você deseja acompanhar esse repositório em outro idioma que não seja o Português , você pode optar pelas escolhas de idiomas abaixo, você também pode colaborar com a tradução para outros idiomas e a correções de possíveis erros ortográficos, a comunidade agradece.
 
 <img src = "https://i.imgur.com/lpP9V2p.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>English — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
 <img src = "https://i.imgur.com/GprSvJe.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Spanish — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
@@ -112,7 +112,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 ![Cyber Security roadmap](https://i.imgur.com/eq4uu7P.jpg)
 
 ## 🔧 Ferramentas para tradução de conteúdo
-> Muito do conteúdo desse repositório pode se encontrar em um idioma diferente do Português Brasileiro, desta maneira, fornecemos algumas ferramentas para que você consiga realizar a tradução do conteúdo, lembrando que o intuito desse guia é fornecer todo o conteúdo possível para que você possa se capacitar na área de Cyber Security independente do idioma a qual o material é fornecido, visto que se você possuí interesse em consumir esse material isso não será um empecilho para você continue seus estudos.
+> Muito do conteúdo desse repositório pode se encontrar em um idioma diferente do Português , desta maneira, fornecemos algumas ferramentas para que você consiga realizar a tradução do conteúdo, lembrando que o intuito desse guia é fornecer todo o conteúdo possível para que você possa se capacitar na área de Cyber Security independente do idioma a qual o material é fornecido, visto que se você possuí interesse em consumir esse material isso não será um empecilho para você continue seus estudos.
 
 - [Google Translate](https://translate.google.com.br/?hl=pt-BR)
 - [Linguee](https://www.linguee.com.br/ingles-portugues/traducao/translate.html)
@@ -283,7 +283,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🔗 Testes de segurança de API
 
-> Cursos, videos, artigos, blogs, podcast sobre testes de segurança de API em Português Brasileiro
+> Cursos, videos, artigos, blogs, podcast sobre testes de segurança de API em Português 
 - [Segurança em APIs REST](https://blog.mandic.com.br/artigos/seguranca-em-apis-rest-parte-1/)
 - [Segurança de APIs - Red Hat](https://www.redhat.com/pt-br/topics/security/api-security)
 - [Segurança de API: 5 melhores práticas para controlar riscos](https://www.bry.com.br/blog/seguranca-de-api/)
@@ -903,7 +903,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 📚 Recomendações de livros
 
-> Recomendação de livros para aprimoramento do conhecimento em Cyber Security em Português Brasileiro
+> Recomendação de livros para aprimoramento do conhecimento em Cyber Security em Português 
 - [Introdução ao Pentest](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-ao-Pentest-Daniel-Moreno/dp/8575228072/ref=asc_df_8575228072/?tag=googleshopp00-20&linkCode=df0&hvadid=379773616949&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-850530960141&psc=1)
 - [Pentest em Aplicações web](https://www.amazon.com.br/Pentest-Aplica%C3%A7%C3%B5es-Web-Daniel-Moreno/dp/8575226134/ref=pd_bxgy_img_sccl_1/145-1578869-2329559?pd_rd_w=2dTdj&content-id=amzn1.sym.57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_p=57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_r=DSSS27BQRN1MT8XSNT55&pd_rd_wg=smd9N&pd_rd_r=cc5197e3-0659-4e91-98fd-07a7b7b3c6aa&pd_rd_i=8575226134&psc=1)
 - [Pentest em Redes sem fio](https://www.amazon.com.br/Pentest-em-Redes-sem-Fio/dp/8575224832/ref=pd_bxgy_img_sccl_2/145-1578869-2329559?pd_rd_w=2dTdj&content-id=amzn1.sym.57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_p=57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_r=DSSS27BQRN1MT8XSNT55&pd_rd_wg=smd9N&pd_rd_r=cc5197e3-0659-4e91-98fd-07a7b7b3c6aa&pd_rd_i=8575224832&psc=1)
@@ -1054,7 +1054,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🦉 Sites e cursos para aprender C
 
-> Cursos para aprender C em Português Brasileiro
+> Cursos para aprender C em Português 
 - [Curso de C - eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4)
 - [Programação Moderna em C - Papo Binário](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)
 - [Curso de Linguagem C - Pietro Martins](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2)
@@ -1095,7 +1095,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [48 horas para aprender Go](https://medium.com/@anapaulagomes/48-horas-para-aprender-go-4542b51d84a4)
 - [Estudo em GoLang: from Zero to Hero com materiais gratuitos!](https://medium.com/hurb-labs/estudo-em-golang-from-zero-to-hero-com-materiais-gratuitos-6be72aeea30f)
 
-> Cursos para aprender Go em Português Brasileiro
+> Cursos para aprender Go em Português 
 - [Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
 - [Aprenda Go / Golang (Curso Tutorial de Programação)](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW)
 - [Go Lang do Zero](https://www.youtube.com/playlist?list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg)
@@ -1125,7 +1125,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🦚 Sites e cursos para aprender C#
 
-> Cursos para aprender C# em Português Brasileiro
+> Cursos para aprender C# em Português 
 - [Curso de C# - Aprenda o essencial em 5 HORAS](https://www.youtube.com/watch?v=PKMm-cHe56g&ab_channel=VictorLima-GuiadoProgramador)
 - [Curso de Programação C#](https://www.youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi)
 - [Curso C# 2021](https://www.youtube.com/playlist?list=PL50rZONmv8ZTLPRyqb37EoPlBpSmVBJWX)
@@ -1173,7 +1173,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🐸 Sites e cursos para aprender C++
 
-> Cursos para aprender C++ em Português Brasileiro
+> Cursos para aprender C++ em Português 
 - [Curso C++ - eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo)
 - [Curso de C e C++ - Daves Tecnologia](https://www.youtube.com/playlist?list=PL5EmR7zuTn_bONyjFxSO4ZCE-SVVNFGkS)
 - [Curso Programação em C/C++](https://www.youtube.com/playlist?list=PLC9E87254BD7A875B)
@@ -1208,7 +1208,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🐘 Sites e cursos para aprender PHP
 
-> Cursos para aprender PHP em Português Brasileiro
+> Cursos para aprender PHP em Português 
 - []()
 - []()
 - []()
@@ -1254,6 +1254,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🦓 Sites e cursos para aprender Java
 
+> Cursos para aprender Java em Português 
 - []()
 - []()
 - []()
@@ -1269,6 +1270,22 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []()
 - []()
 - []()
+
+> Cursos para aprender Java em Espanhol
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+> Cursos para aprender Java em Inglês
 - []()
 - []()
 - []()
@@ -1284,6 +1301,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🐦 Sites e cursos para aprender Ruby
 
+> Cursos para aprender Ruby em Português
 - []()
 - []()
 - []()
@@ -1294,6 +1312,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []()
 - []()
 - []()
+
+> Cursos para aprender Ruby em Espanhol
 - []()
 - []()
 - []()
@@ -1304,6 +1324,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []()
 - []()
 - []()
+
+> Cursos para aprender Ruby em Inglês
 - []()
 - []()
 - []()
@@ -1314,6 +1336,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🐪 Sites e cursos para aprender Perl
 
+> Cursos para aprender Perl em Português
 - []()
 - []()
 - []()
@@ -1324,6 +1347,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []()
 - []()
 - []()
+
+> Cursos para aprender Perl em Espanhol
 - []()
 - []()
 - []()
@@ -1333,6 +1358,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []()
 - []()
 - []()
+
+> Cursos para aprender Perl em Inglês
 - []()
 - []()
 - []()
@@ -1344,6 +1371,18 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🐷 Sites e cursos para aprender Bash
 
+> Cursos para aprender Bash em Português
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+> Cursos para aprender Bash em Espanhol
 - []()
 - []()
 - []()
@@ -1354,15 +1393,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []()
 - []()
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
+> Cursos para aprender Bash em Inglês
 - []()
 - []()
 - []()
@@ -1397,7 +1429,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Journal to SQL Authority, Pinal Dave](https://blog.sqlauthority.com/)
 - [MySQL Tutorial, Learn MySQL Fast, Easy and Fun](https://www.mysqltutorial.org/)
 
-> Cursos para aprender MySQL em Português Brasileiro
+> Cursos para aprender MySQL em Português 
 
 - [Curso de Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
 - [Curso de MySQL - Bóson Treinamentos](https://www.youtube.com/playlist?list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR)
@@ -1455,7 +1487,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Digital Ocean Getting Started With Linux](https://www.digitalocean.com/community/tutorial_series/getting-started-with-linux)
 - [Learn Enough Command Line To Be Dangerous](https://www.learnenough.com/command-line-tutorial)
 
-> Cursos para aprender Linux em Português Brasileiro
+> Cursos para aprender Linux em Português 
 - [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV)
 - [Curso de Linux Básico / Certificação LPIC - 1](https://www.youtube.com/playlist?list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7)
 - [Curso de Linux - Matheus Battisti](https://www.youtube.com/playlist?list=PLnDvRpP8BnezDTtL8lm6C-UOJZn-xzALH)
@@ -1553,7 +1585,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Beginner's Guide to Python, Official Wiki](https://wiki.python.org/moin/BeginnersGuide)
 - [Python for Everybody Specialization, Coursera](https://www.coursera.org/specializations/python)
 
-> Cursos para aprender Python em Português Brasileiro
+> Cursos para aprender Python em Português 
 - [Curso completo de Python - Curso em vídeo](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 - [Curso de Python - CFB Cursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR)
 - [Curso Completo de Python - Jefferson Lobato](https://www.youtube.com/playlist?list=PLLVddSbilcul-1bAKtMKoL6wOCmDIPzFJ)
@@ -1653,7 +1685,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🐋 Sites e cursos para aprender Docker
 
-> Cursos para aprender Docker em Português Brasileiro
+> Cursos para aprender Docker em Português 
 - [Curso de Docker Completo](https://www.youtube.com/playlist?list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4)
 - [Curso de Docker para iniciantes](https://www.youtube.com/watch?v=np_vyd7QlXk&t=1s&ab_channel=MatheusBattisti-HoradeCodar)
 - [Curso de Introdução ao Docker](https://www.youtube.com/playlist?list=PLXzx948cNtr8N5zLNJNVYrvIG6hk0Kxl-)
@@ -1692,6 +1724,19 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🐼 Sites e cursos para aprender Assembly
 
+> Cursos para aprender Assembly em Português
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+> Cursos para aprender Assembly em Espanhol
 - []()
 - []()
 - []()
@@ -1703,16 +1748,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []()
 - []()
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
+> Cursos para aprender Assembly em Inglês
 - []()
 - []()
 - []()
@@ -1722,6 +1759,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🦞 Sites e cursos para aprender Powershell
 
+> Cursos para aprender Powershell em Português
 - []()
 - []()
 - []()
@@ -1734,6 +1772,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []()
 - []()
 - []()
+
+> Cursos para aprender Powershell em Espanhol
 - []()
 - []()
 - []()
@@ -1742,6 +1782,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []()
 - []()
 - []()
+
+> Cursos para aprender Powershell em Inglês
 - []()
 - []()
 - []()
@@ -1752,6 +1794,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🐶 Sites e cursos para aprender Shell Script
 
+> Cursos para aprender Shell Script em Português
 - [Curso de Shell Scripting - Programação no Linux](https://www.youtube.com/playlist?list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs)
 - []()
 - []()
@@ -1763,6 +1806,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []()
 - []()
 - []()
+
+> Cursos para aprender Shell Script em Espanhol
 - []()
 - []()
 - []()
@@ -1773,6 +1818,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []()
 - []()
 - []()
+
+> Cursos para aprender Shell Script em Inglês
 - []()
 - []()
 - []()
@@ -1783,6 +1830,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🖥️ Sites e cursos para aprender Hardware Hacking
 
+> Cursos para aprender Hardware Hacking em Português
 - []()
 - []()
 - []()
@@ -1793,6 +1841,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []()
 - []()
 - []()
+
+> Cursos para aprender Hardware Hacking em Espanhol
 - []()
 - []()
 - []()
@@ -1803,6 +1853,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []()
 - []()
 - []()
+
+> Cursos para aprender Hardware Hacking em Inglês
 - []()
 - []()
 - []()
@@ -1813,6 +1865,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 📡 Sites e cursos para aprender Redes de Computadores
 
+> Cursos para aprender Redes de Computadores em Português
 - []()
 - []()
 - []()
@@ -1823,6 +1876,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []()
 - []()
 - []()
+
+> Cursos para aprender Redes de Computadores em Espanhol
 - []()
 - []()
 - []()
@@ -1833,6 +1888,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []()
 - []()
 - []()
+
+> Cursos para aprender Redes de Computadores em Inglês
 - []()
 - []()
 - []()
