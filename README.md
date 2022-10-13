@@ -112,7 +112,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 ![Cyber Security roadmap](https://i.imgur.com/eq4uu7P.jpg)
 
 ## 🔧 Ferramentas para tradução de conteúdo
-> Muito do conteúdo desse repositório pode se encontrar em um idioma diferente do Português Brasileiro, desta maneira, segue aqui ferramentas para que você consiga realizar a tradução do conteúdo, lembrando que o intuito desse guia é fornecer todo o conteúdo possível para que você possa se capacitar na área de Cyber Security indepente do idioma a qual o material é fornecido, visto que se você possue interesse em consumir esse material isso não será um impessilho para você continue seus estudos.
+> Muito do conteúdo desse repositório pode se encontrar em um idioma diferente do Português Brasileiro, desta maneira, segue aqui ferramentas para que você consiga realizar a tradução do conteúdo, lembrando que o intuito desse guia é fornecer todo o conteúdo possível para que você possa se capacitar na área de Cyber Security independente do idioma a qual o material é fornecido, visto que se você possuí interesse em consumir esse material isso não será um empecilho para você continue seus estudos.
 
 - [Google Translate](https://translate.google.com.br/?hl=pt-BR) <br>
 - [Linguee](https://www.linguee.com.br/ingles-portugues/traducao/translate.html)
