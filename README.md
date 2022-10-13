@@ -56,56 +56,56 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 📚 ÍNDICE
 
-[🗺️ Cyber Security roadmap]() <br>
-[🔧 Ferramentas para tradução de conteúdo]() <br>
-[🧥 Introdução a área de Cyber Security]() <br>
-[💼 Carreiras na área de Cyber Security]() <br>
-[🕵️‍♂️ Sites para estudar Cyber Security]() <br>
-[📰 Sites de noticias]() <br>
-[📃 Newsletters]() <br>
-[🗃️ Awesome Hacking]() <br>
-[🔗 Testes de segurança de API]() <br>
-[🎥 Canais do Youtube]() <br>
-[🔎 Ferramentas de busca]() <br>
-[📱 Ferramentas de Mobile]() <br>
-[🎤 Podcasts]() <br>
-[📽️ Palestras]() <br>
-[🃏 CheatSheets]() <br>
-[♟️ Exploitation]() <br>
-[🎬 Documentários]() <br>
-[🚩 Capture the Flag]() <br>
-[🐧 Distros de Linux]() <br>
-[💻 Máquinas Virtuais]() <br>
-[💰 Sites de Bug Bounty]() <br>
-[🦤 Perfis no Twitter]() <br>
-[✨ Perfis no Instagram]() <br>
-[🎇 Comunidades no Reddit]() <br>
-[🌌 Comunidades no Discord]() <br>
-[📚 Recomendações de livros]() <br>
-[🛠️ Frameworks e ferramentas de Hacking Web]() <br>
-[🪓 Ferramentas para obter informações]() <br>
-[🔧 Ferramentas para Pentesting]() <br>
-[🔨 Ferramentas para Hardware Hacking]() <br>
-[🦉 Sites e cursos para aprender C]() <br>
-[🐬 Sites e cursos para aprender Go]() <br>
-[🦚 Sites e cursos para aprender C#]() <br>
-[🐸 Sites e cursos para aprender C++]() <br>
-[🐘 Sites e cursos para aprender PHP]() <br>
-[🦓 Sites e cursos para aprender Java]() <br>
-[🐦 Sites e cursos para aprender Ruby]() <br>
-[🐪 Sites e cursos para aprender Perl]() <br>
-[🐷 Sites e cursos para aprender Bash]() <br>
-[🐴 Sites e cursos para aprender MySQL]() <br>
-[🐧 Sites e cursos para aprender Linux]() <br>
-[🦂 Sites e cursos para aprender Swift]() <br>
-[🐍 Sites e cursos para aprender Python]() <br>
-[🐋 Sites e cursos para aprender Docker]() <br>
-[🐼 Sites e cursos para aprender Assembly]() <br>
-[🦞 Sites e cursos para aprender Powershell]() <br>
-[🐶 Sites e cursos para aprender Shell Script]() <br>
-[🖥️ Sites e cursos para aprender Hardware Hacking]() <br>
-[📡 Sites e cursos para aprender Redes de Computadores]() <br>
-[🎓 Certificações para Cyber Security]() <br>
+[🗺️ Cyber Security roadmap](#%EF%B8%8F-cyber-security-roadmap) <br>
+[🔧 Ferramentas para tradução de conteúdo](#-ferramentas-para-tradução-de-conteúdo) <br>
+[🧥 Introdução a área de Cyber Security](#-introdução-a-área-de-cyber-security) <br>
+[💼 Carreiras na área de Cyber Security](#-carreiras-na-área-de-cyber-security) <br>
+[🕵️‍♂️ Sites para estudar Cyber Security](#%EF%B8%8F%EF%B8%8F-sites-para-estudar-cyber-security) <br>
+[📰 Sites de noticias](#-sites-de-noticias-de-cyber-security) <br>
+[📃 Newsletters](#-newsletters-de-cyber-security) <br>
+[🗃️ Awesome Hacking](#%EF%B8%8F-awesome-hacking) <br>
+[🔗 Testes de segurança de API](#-testes-de-segurança-de-api) <br>
+[🎥 Canais do Youtube](#-canais-do-youtube) <br>
+[🔎 Ferramentas de busca](#-ferramentas-de-busca) <br>
+[📱 Ferramentas de Mobile](#-ferramentas-de-mobile) <br>
+[🎤 Podcasts](#-podcasts-de-cyber-security) <br>
+[📽️ Palestras](#%EF%B8%8F-palestras) <br>
+[🃏 CheatSheets](#-cheatsheets) <br>
+[♟️ Exploitation](#%EF%B8%8F-exploitation) <br>
+[🎬 Documentários](#-documentários) <br>
+[🚩 Capture the Flag](#-capture-the-flag) <br>
+[🐧 Distros de Linux](#-distros-de-linux) <br>
+[💻 Máquinas Virtuais](#-máquinas-virtuais) <br>
+[💰 Sites de Bug Bounty](#-sites-de-bug-bounty) <br>
+[🦤 Perfis no Twitter](#-perfis-no-twitter) <br>
+[✨ Perfis no Instagram](#-perfis-no-instagram) <br>
+[🎇 Comunidades no Reddit](#-comunidades-no-reddit) <br>
+[🌌 Comunidades no Discord](#-comunidades-no-discord) <br>
+[📚 Recomendações de livros](#-recomendações-de-livros) <br>
+[🛠️ Frameworks e ferramentas de Hacking Web](#%EF%B8%8F-frameworks-e-ferramentas-de-hacking-web) <br>
+[🪓 Ferramentas para obter informações](#-ferramentas-para-obter-informações) <br>
+[🔧 Ferramentas para Pentesting](#-ferramentas-para-pentesting) <br>
+[🔨 Ferramentas para Hardware Hacking](#-ferramentas-para-hardware-hacking) <br>
+[🦉 Sites e cursos para aprender C](#-sites-e-cursos-para-aprender-c) <br>
+[🐬 Sites e cursos para aprender Go](#-sites-e-cursos-para-aprender-go) <br>
+[🦚 Sites e cursos para aprender C#](#-sites-e-cursos-para-aprender-c-1) <br>
+[🐸 Sites e cursos para aprender C++](#-sites-e-cursos-para-aprender-c-2) <br>
+[🐘 Sites e cursos para aprender PHP](#-sites-e-cursos-para-aprender-php) <br>
+[🦓 Sites e cursos para aprender Java](#-sites-e-cursos-para-aprender-java) <br>
+[🐦 Sites e cursos para aprender Ruby](#-sites-e-cursos-para-aprender-ruby) <br>
+[🐪 Sites e cursos para aprender Perl](#-sites-e-cursos-para-aprender-perl) <br>
+[🐷 Sites e cursos para aprender Bash](#-sites-e-cursos-para-aprender-bash) <br>
+[🐴 Sites e cursos para aprender MySQL](#-sites-e-cursos-para-aprender-mysql) <br>
+[🐧 Sites e cursos para aprender Linux](#-sites-e-cursos-para-aprender-linux) <br>
+[🦂 Sites e cursos para aprender Swift](#-sites-e-cursos-para-aprender-swift) <br>
+[🐍 Sites e cursos para aprender Python](#-sites-e-cursos-para-aprender-python) <br>
+[🐋 Sites e cursos para aprender Docker](#-sites-e-cursos-para-aprender-docker) <br>
+[🐼 Sites e cursos para aprender Assembly](#-sites-e-cursos-para-aprender-assembly) <br>
+[🦞 Sites e cursos para aprender Powershell](#-sites-e-cursos-para-aprender-powershell) <br>
+[🐶 Sites e cursos para aprender Shell Script](#-sites-e-cursos-para-aprender-shell-script) <br>
+[🖥️ Sites e cursos para aprender Hardware Hacking](#%EF%B8%8F-sites-e-cursos-para-aprender-hardware-hacking) <br>
+[📡 Sites e cursos para aprender Redes de Computadores](#-sites-e-cursos-para-aprender-redes-de-computadores) <br>
+[🎓 Certificações para Cyber Security](#-certificações-para-cyber-security) <br>
 
 ## 🗺️ Cyber Security roadmap
 
@@ -1207,22 +1207,22 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Curso de Interfaces Graficas en C/C++](https://www.youtube.com/playlist?list=PLYA44wBp7zVTiCJiXIC5H5OkMOXptxLOI) <br>
 
 > Cursos para aprender C++ em Inglês
-- [C++ Programming Course - Beginner to Advanced 31 hours](https://www.youtube.com/watch?v=8jLOx1hD3_o&ab_channel=freeCodeCamp.org) <br> <br>
-- [C++ Full Course For Beginners (Learn C++ in 10 hours)](https://www.youtube.com/watch?v=GQp1zzTwrIg&ab_channel=CodeBeauty) <br> <br>
-- [C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://www.youtube.com/watch?v=ZzaPdXTrSb8&ab_channel=ProgrammingwithMosh) <br> <br>
-- [C++ Tutorial: Full Course for Beginners](https://www.youtube.com/watch?v=-TkoO8Z07hI&ab_channel=BroCode) <br> <br>
-- [C++ Tutorial for Beginners - Complete Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y&ab_channel=freeCodeCamp.org) <br> <br>
-- [C++ Programming All-in-One Tutorial Series (10 HOURS!)](https://www.youtube.com/watch?v=_bYFu9mBnr4&ab_channel=CalebCurry) <br> <br>
-- [C++ Full Course 2022](https://www.youtube.com/watch?v=SYd5F4gIH90&ab_channel=Simplilearn) <br> <br>
-- [C++ Crash Course](https://www.youtube.com/watch?v=uhFpPlMsLzY&ab_channel=BroCode) <br> <br>
-- [C++ - The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) <br> <br>
-- [C++ Full Course | C++ Tutorial | Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) <br> <br>
-- [C++ Programming - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS) <br> <br>
-- [C++ Complete Course](https://www.youtube.com/playlist?list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee) <br> <br>
-- [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) <br> <br>
-- [C++ Online Training](https://www.youtube.com/playlist?list=PLWPirh4EWFpGDG3--IKMLPoYrgfuhaz_t) <br> <br>
-- [C / C++ - freeCodeCamp Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m) <br> <br>
-- [C++ Modern Tutorials](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA) <br> <br>
+- [C++ Programming Course - Beginner to Advanced 31 hours](https://www.youtube.com/watch?v=8jLOx1hD3_o&ab_channel=freeCodeCamp.org) <br> 
+- [C++ Full Course For Beginners (Learn C++ in 10 hours)](https://www.youtube.com/watch?v=GQp1zzTwrIg&ab_channel=CodeBeauty) <br> 
+- [C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://www.youtube.com/watch?v=ZzaPdXTrSb8&ab_channel=ProgrammingwithMosh) <br> 
+- [C++ Tutorial: Full Course for Beginners](https://www.youtube.com/watch?v=-TkoO8Z07hI&ab_channel=BroCode) <br> 
+- [C++ Tutorial for Beginners - Complete Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y&ab_channel=freeCodeCamp.org) <br> 
+- [C++ Programming All-in-One Tutorial Series (10 HOURS!)](https://www.youtube.com/watch?v=_bYFu9mBnr4&ab_channel=CalebCurry) <br> 
+- [C++ Full Course 2022](https://www.youtube.com/watch?v=SYd5F4gIH90&ab_channel=Simplilearn) <br> 
+- [C++ Crash Course](https://www.youtube.com/watch?v=uhFpPlMsLzY&ab_channel=BroCode) <br> 
+- [C++ - The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) <br> 
+- [C++ Full Course | C++ Tutorial | Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) <br> 
+- [C++ Programming - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS) <br> 
+- [C++ Complete Course](https://www.youtube.com/playlist?list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee) <br> 
+- [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) <br> 
+- [C++ Online Training](https://www.youtube.com/playlist?list=PLWPirh4EWFpGDG3--IKMLPoYrgfuhaz_t) <br> 
+- [C / C++ - freeCodeCamp Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m) <br> 
+- [C++ Modern Tutorials](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA) <br> 
 
 ## 🐘 Sites e cursos para aprender PHP
 
@@ -1360,6 +1360,36 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - []()
 - []()
 
+## 🐷 Sites e cursos para aprender Bash
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ## 🐴 Sites e cursos para aprender MySQL
 
 > Sites para aprender MySQL
@@ -1415,36 +1445,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [MySQL DBA Tutorial - Mughees Ahmed](https://www.youtube.com/playlist?list=PLd5sTGXltJ-l9PKT2Bynhg0Ou2uESOJiH) <br>
 - [MySQL DBA Tutorial - TechBrothers](https://www.youtube.com/playlist?list=PLWf6TEjiiuICV0BARDhRC0JvNKHC5MDEU) <br>
 - [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY&ab_channel=freeCodeCamp.org) <br>
-
-## 🐷 Sites e cursos para aprender Bash
-
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
 
 ## 🐧 Sites e cursos para aprender Linux
 
