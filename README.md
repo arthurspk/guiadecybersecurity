@@ -856,84 +856,82 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## Capture the Flag
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Hacker 101](https://www.hackerone.com/hackers/hacker101) <br>
+- [PicoCTF](https://picoctf.org/) <br>
+- [TryHackMe](https://tryhackme.com) <br>
+- [HackTheBox](https://www.hackthebox.com/) <br>
+- [VulnHub](https://www.vulnhub.com/) <br>
+- [HackThisSite](https://hackthissite.org/) <br>
+- [CTFChallenge](https://ctfchallenge.co.uk/) <br>
+- [Attack-Defense](https://attackdefense.com/) <br>
+- [Alert to win](https://alf.nu/alert1) <br>
+- [Bancocn](https://bancocn.com/) <br>
+- [CTF Komodo Security](https://ctf.komodosec.com/) <br>
+- [CryptoHack](https://cryptohack.org/) <br>
+- [CMD Challenge](https://cmdchallenge.com/http://overthewire.org/) <br>
+- [Explotation Education](https://exploit.education/) <br>
+- [Google CTF](https://lnkd.in/e46drbz8) <br>
+- [Hackthis](https://www.hackthis.co.uk/) <br>
+- [Hacksplaining](https://lnkd.in/eAB5CSTA) <br>
+- [Hacker Security](https://lnkd.in/ex7R-C-e) <br>
+- [Hacking-Lab](https://hacking-lab.com/) <br>
+- [HSTRIKE](https://hstrike.com/) <br>
+- [ImmersiveLabs](https://immersivelabs.com/) <br>
+- [NewbieContest](https://lnkd.in/ewBk6fU5) <br>
+- [OverTheWire](http://overthewire.org/) <br>
+- [Practical Pentest Labs](https://lnkd.in/esq9Yuv5) <br>
+- [Pentestlab](https://pentesterlab.com/) <br>
+- [Hackaflag BR](https://hackaflag.com.br/) <br>
+- [Penetration Testing Practice Labs](https://lnkd.in/e6wVANYd) <br>
+- [PWNABLE](https://lnkd.in/eMEwBJzn) <br>
+- [Root-Me](https://www.root-me.org/) <br>
+- [Root in Jail](http://rootinjail.com/) <br>
+- [SANS Challenger](https://lnkd.in/e5TAMawK) <br>
+- [SmashTheStack](https://lnkd.in/eVn9rP9p) <br>
+- [The Cryptopals Crypto Challenges](https://cryptopals.com/) <br>
+- [W3Challs](https://w3challs.com/) <br>
+- [WeChall](http://www.wechall.net/) <br>
+- [Zenk-Security](https://lnkd.in/ewJ5rNx2) <br>
+- [Cyber Defenders](https://lnkd.in/dVcmjEw8) <br>
+- [LetsDefend](https://letsdefend.io/) <br>
+- [Vulnmachines](https://vulnmachines.com/) <br>
+- [Rangeforce](https://www.rangeforce.com/) <br>
+- [Ctftime](https://ctftime.org/) <br>
+- [Pwn college](https://dojo.pwn.college/) <br>
+- [Free Money CTF](https://bugbase.in/)
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security) <br>
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) <br>
+- [XSSGame](https://xss-game.appspot.com/) <br>
+- [BugBountyHunter](https://www.bugbountyhunter.com/) <br>
+- [DVWA](https://dvwa.co.uk/) <br>
+- [bWAPP](http://www.itsecgames.com/) <br>
+- [Metasploitable2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) <br>
 
 ## Distros de Linux
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Parrot Security](https://www.parrotsec.org/)  - Distribuição Parrot SecurityOS  <br>
+- [Kali Linux](https://www.kali.org) - Distribuição Linux Kali Linux <br>
+- [Black Arch Linux](https://blackarch.org/) - Distribuição Black Arch <br>
+- [Arch Linux](https://archlinux.org/) - Distribuição Linux Arch Linux <br>
+- [Pop!\_Os](https://pop.system76.com/) - Distribuição Linux Pop!\_Os <br>
+- [Debian](https://www.debian.org/) - Distribuição Linux Debian <br>
+- [Ubuntu](https://ubuntu.com/) - Distribuição Linux Ubuntu <br>
+- [Fedora](https://getfedora.org/pt_BR/) - Distribuição Linux Fedora <br>
+- [Linux Mint](https://linuxmint.com/) - Distribuição Linux Mint <br>
+- [OpenSUSE](https://www.opensuse.org) - Distribuição Linux OpenSUSE<br>
+- [KDE Neon](https://www.neon.kde.org) - Distribuição Linux KDE Neon <br>
+- [Solus](https://www.getsol.us) - Distribuição Linux Solus <br>
+- [Tails](https://www.tails.boum.org) - Distribuição Linux Tails <br>
+- [Zorin OS](https://zorin.com/os/) - Distribuição Linux Zorin <br>
+- [Kubuntu](https://kubuntu.org/) - Distribuição Linux Kubuntu <br>
 
 ## Máquinas Virtuais
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Oracle VM VirtualBox](https://www.virtualbox.org/) <br>
+- [VMware Workstation](https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html) <br>
+- [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html) <br>
+- [VMware Fusion](https://www.vmware.com/br/products/fusion.html) <br>
+- [Vagrant](https://www.vagrantup.com/) <br>
 
 ## Sites de Bug Bounty
 
@@ -994,33 +992,25 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## Perfis no Twitter
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Ben Sadeghipour](https://twitter.com/NahamSec) <br>
+- [STÖK](https://twitter.com/stokfredrik) <br>
+- [TomNomNom](https://twitter.com/TomNomNom) <br>
+- [Shubs](https://twitter.com/infosec_au) <br>
+- [Emad Shanab](https://twitter.com/Alra3ees) <br>
+- [Payloadartist](https://twitter.com/payloadartist) <br>
+- [Remon](https://twitter.com/remonsec) <br>
+- [Aditya Shende](https://twitter.com/ADITYASHENDE17) <br>
+- [Hussein Daher](https://twitter.com/HusseiN98D) <br>
+- [The XSS Rat](https://twitter.com/theXSSrat) <br>
+- [zseano](https://twitter.com/zseano) <br>
+- [based god](https://twitter.com/hacker) <br>
+- [Vickie Li](https://twitter.com/vickieli7) <br>
+- [GodFather Orwa](https://twitter.com/GodfatherOrwa) <br>
+- [Ashish Kunwar](https://twitter.com/D0rkerDevil) <br>
+- [Farah Hawa](https://twitter.com/Farah_Hawaa) <br>
+- [Jason Haddix](https://twitter.com/Jhaddix) <br>
+- [Brute Logic](https://twitter.com/brutelogic) <br>
+- [Bug Bounty Reports Explained](https://twitter.com/gregxsunday) <br>
 
 ## Perfis no Instagram
 
