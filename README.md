@@ -159,7 +159,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Vulnerability Management](https://www.ukcybersecuritycouncil.org.uk/qualifications-and-careers/careers-route-map/vulnerability-management/)
 - [Industrial Control Systems](https://ianmartin.com/careers/177380-industrial-control-system-ics-engineer/)
 - [Privacy and Data Protection](https://resources.infosecinstitute.com/topic/data-privacy-careers-which-path-is-right-for-you/)
-- [Data Protection Office (DPO)](https://www.michaelpage.com.hk/advice/job-description/technology/data-protection-officer)
+- [Data Protection Officer (DPO)](https://www.michaelpage.com.hk/advice/job-description/technology/data-protection-officer)
 - [Penetration Testing Engineer](https://onlinedegrees.sandiego.edu/vulnerability-and-penetration-testing/)
 - [Security and Risk Assessment](https://learn.org/articles/What_are_Some_Career_Options_in_Security_Risk_Assessment.html)
 - [Identity and Acess Management](https://identitymanagementinstitute.org/identity-and-access-management-career-and-jobs/#:~:text=Identity%20and%20access%20management%20career%20and%20jobs%20involve%20protecting%20systems,mechanism%20and%20have%20the%20appropriate)
