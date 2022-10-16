@@ -77,7 +77,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 [🐧 Distros de Linux](#-distros-de-linux) <br>
 [💻 Máquinas Virtuais](#-máquinas-virtuais) <br>
 [💰 Sites de Bug Bounty](#-sites-de-bug-bounty) <br>
-[🦤 Perfis no Twitter](#-perfis-no-twitter) <br>
+[📮 Perfis no Twitter](#-perfis-no-twitter) <br>
 [✨ Perfis no Instagram](#-perfis-no-instagram) <br>
 [🎇 Comunidades no Reddit](#-comunidades-no-reddit) <br>
 [🌌 Comunidades no Discord](#-comunidades-no-discord) <br>
