@@ -194,6 +194,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 📰 Sites de noticias de Cyber Security
 
+- [Bleeping Computer](https://www.bleepingcomputer.com/)
+- [Malwarebytes Blog](https://www.malwarebytes.com/blog)
 - [IT Security Guru](https://www.itsecurityguru.org/)
 - [Security Weekly](https://securityweekly.com/)
 - [The Hacker News](https://thehackernews.com/)
