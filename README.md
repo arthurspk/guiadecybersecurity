@@ -1625,4 +1625,3 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Network Defense Essentials (NDE)](https://codered.eccouncil.org/course/network-defense-essentials)
 - [Introduction to Dark Web, Anonymity, and Cryptocurrency](https://codered.eccouncil.org/course/introduction-to-dark-web-anonymity-and-cryptocurrency)
 - [Certified in Cybersecurity℠](https://www.isc2.org/Certifications/CC)
-- [https://training.fortinet.com/](https://training.fortinet.com/)
