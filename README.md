@@ -1611,3 +1611,18 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 - [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
   ![Logo](https://i.imgur.com/azUfcQp.png)
+
+  ## 🎓 Certificações gratuitas para Cyber Security
+
+- [NSE 1, 2 & 3](https://training.fortinet.com/)
+- [Introduction to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)
+- [Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials)
+- [Networking Essentials](https://www.netacad.com/courses/networking/networking-essentials)
+- [Android Bug Bounty Hunting: Hunt Like a Rat](https://codered.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat)
+- [Ethical Hacking Essentials (EHE)](https://codered.eccouncil.org/course/ethical-hacking-essentials)
+- [Website Hacking Techniques](https://codered.eccouncil.org/course/website-hacking-techniques)
+- [Digital Forensics Essentials (DFE)](https://codered.eccouncil.org/course/digital-forensics-essentials)
+- [Network Defense Essentials (NDE)](https://codered.eccouncil.org/course/network-defense-essentials)
+- [Introduction to Dark Web, Anonymity, and Cryptocurrency](https://codered.eccouncil.org/course/introduction-to-dark-web-anonymity-and-cryptocurrency)
+- [Certified in Cybersecurity℠](https://www.isc2.org/Certifications/CC)
+- [https://training.fortinet.com/](https://training.fortinet.com/)
