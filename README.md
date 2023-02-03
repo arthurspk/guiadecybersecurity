@@ -193,6 +193,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [OverTheWire](https://overthewire.org/wargames/) - Aprenda conceitos de segurança por meio de desafios.
 - [PentesterLab](https://pentesterlab.com/) - Aprenda testes de penetração de aplicativos da web.
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Amplo material didático.
+- [Cisco Networking Academy](https://skillsforall.com/career-path/cybersecurity?userLang=pt-BR) - Trilha dedicada a Segurança cibernética.
 
 ## 📰 Sites de noticias de Cyber Security
 
@@ -636,6 +637,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html)
 - [VMware Fusion](https://www.vmware.com/br/products/fusion.html)
 - [Vagrant](https://www.vagrantup.com/)
+- [UTM](https://mac.getutm.app)
 
 ## 💰 Sites de Bug Bounty
 
