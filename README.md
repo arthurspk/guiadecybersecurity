@@ -1201,7 +1201,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 > Cursos para aprender Bash em Espanhol
 - [Curso Profesional de Scripting Bash Shell](https://www.youtube.com/playlist?list=PLDbrnXa6SAzUsIAqsjVOeyagmmAvmwsG2)
-- [Curso lINUX: Comandos Básicos [Introducción al Shell BASH]](https://www.youtube.com/playlist?list=PLN9u6FzF6DLTRhmLLT-ILqEtDQvVf-ChM)
+- [Curso Linux: Comandos Básicos [Introducción al Shell BASH]](https://www.youtube.com/playlist?list=PLN9u6FzF6DLTRhmLLT-ILqEtDQvVf-ChM)
 
 > Cursos para aprender Bash em Inglês
 - [Bash Scripting Full Course 3 Hours](https://www.youtube.com/watch?v=e7BufAVwDiM&ab_channel=linuxhint)
