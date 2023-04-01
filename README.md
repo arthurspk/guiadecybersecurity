@@ -75,6 +75,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 [🗺️ Cyber Security roadmap](#%EF%B8%8F-cyber-security-roadmap) <br>
 [🔧 Ferramentas para tradução de conteúdo](#-ferramentas-para-tradução-de-conteúdo) <br>
 [🧥 Introdução a área de Cyber Security](#-introdução-a-área-de-cyber-security) <br>
+[👩‍💻 Curso completo de Ciência da Computação](https://github.com/Universidade-Livre/ciencia-da-computacao) <br>
 [💼 Carreiras na área de Cyber Security](#-carreiras-na-área-de-cyber-security) <br>
 [🕵️‍♂️ Sites para estudar Cyber Security](#%EF%B8%8F%EF%B8%8F-sites-para-estudar-cyber-security) <br>
 [📰 Sites de noticias](#-sites-de-noticias-de-cyber-security) <br>
