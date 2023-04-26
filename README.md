@@ -207,6 +207,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [OverTheWire](https://overthewire.org/wargames/) - Aprenda conceitos de segurança por meio de desafios.
 - [PentesterLab](https://pentesterlab.com/) - Aprenda testes de penetração de aplicativos da web.
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Amplo material didático.
+- [Cisco Networking Academy](https://www.netacad.com/) - Aprenda redes e cybersecurity com aulas e laboratórios virtuais Packet Tracer.
 
 ## 📰 Sites de noticias de Cyber Security
 
