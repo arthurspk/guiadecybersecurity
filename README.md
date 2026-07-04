@@ -840,6 +840,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Mongoaudit](https://github.com/stampery/mongoaudit)
 - [Pentesting Scripts](https://github.com/killswitch-GUI/PenTesting-Scripts)
 - [TxTool](https://github.com/kuburan/txtool)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon)
 - [All Pentesting Tools](https://github.com/nullsecuritynet/tools)
 
 ## 🔨 Ferramentas para Hardware Hacking
