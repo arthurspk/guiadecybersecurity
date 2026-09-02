@@ -1,0 +1,60 @@
+name: 💡 Sugestão de recurso
+description: Sugira um curso, livro, canal, ferramenta, artigo ou comunidade para o guia.
+title: "[Recurso]: "
+labels: ["sugestão"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado pela sugestão! Leia os critérios em [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md) antes de enviar. Só aceitamos conteúdo legal, com link funcionando, e ferramentas/técnicas ofensivas apenas com enquadramento educacional claro.
+  - type: input
+    id: nome
+    attributes:
+      label: Nome do recurso
+      placeholder: "Ex.: Curso de Pentest Web — do zero ao Burp Suite"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: dropdown
+    id: categoria
+    attributes:
+      label: Categoria
+      options:
+        - Roadmap
+        - Documentação oficial
+        - Carreiras
+        - Sites e cursos
+        - Livros
+        - Canais no YouTube
+        - Ferramentas
+        - Ferramentas de defesa, SOC e threat intel
+        - Podcasts
+        - Capture the Flag / laboratórios
+        - IA na prática
+        - Certificações
+        - Comunidades
+        - Outra (descreva abaixo)
+    validations:
+      required: true
+  - type: textarea
+    id: porque
+    attributes:
+      label: Por que incluir?
+      description: Uma ou duas linhas sobre o que é e por que vale o clique. Diga se é gratuito, pago ou em inglês.
+    validations:
+      required: true
+  - type: checkboxes
+    id: criterios
+    attributes:
+      label: Confirmação
+      options:
+        - label: O link está funcionando e o conteúdo é legal (não é material pirateado).
+          required: true
+        - label: Se o recurso envolve técnicas ofensivas, o contexto é educacional/legal (laboratório próprio, CTF, bug bounty autorizado).
+          required: true

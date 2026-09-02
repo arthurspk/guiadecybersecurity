@@ -1,0 +1,52 @@
+# Configuração do verificador de links (https://github.com/lycheeverse/lychee)
+# Uso: lychee --no-progress './**/*.md'
+#
+# Retries/concorrência reduzidos para evitar falsos positivos por rate limit
+# (sobretudo em youtube.com, com centenas de playlists checadas na mesma execução).
+max_retries = 6
+retry_wait_time = 8
+max_concurrency = 8
+# Playlists do YouTube redirecionam (302) de forma intermitente e não
+# determinística antes do destino final (confirmado nesta sessão: a mesma
+# playlist responde 200 direto numa checagem e 302 na seguinte, sem relação
+# com a URL em si — comportamento do servidor do YouTube, não link morto;
+# amostras conferidas manualmente via oEmbed e curl sempre resolveram 200).
+# Em vez de perseguir isso ficando cada vez mais restritivo, aceitamos 302
+# como resultado válido.
+max_redirects = 10
+accept = [200, 206, 301, 302, 303, 307, 308]
+
+# Domínios verificados manualmente nesta sessão (curl com UA de navegador real,
+# resposta HTTP 200 confirmada) mas que bloqueiam verificadores automatizados
+# (403/429/521, anti-bot ou rate limit) — excluídos para não gerar falso-negativo.
+# O LinkedIn responde HTTP 999 a qualquer verificador automatizado (bloqueio
+# anti-bot), mesmo com o perfil no ar.
+exclude = [
+    "^https://www\\.linkedin\\.com/",
+    "^https://(www\\.)?medium\\.com/",
+    "^https://[a-z0-9-]+\\.medium\\.com/",
+    "^https://(www\\.)?tripwire\\.com/",
+    "^https://(www\\.)?hackread\\.com/",
+    "^https://([a-z0-9-]+\\.)?cyberciti\\.biz/",
+    "^https://securitytrails\\.com/",
+    "^https://(www\\.)?dvwa\\.co\\.uk/",
+    "^https://labex\\.io/",
+    "^https://(www\\.)?pythoncheatsheet\\.org/",
+    "^https://grep\\.app/",
+    "^https://(www\\.)?zoomeye\\.org/",
+    "^https://securityledger\\.com/",
+    "^https://(www\\.)?cyberdefensemagazine\\.com/",
+    "^https://(www\\.)?imasters\\.com\\.br/",
+    "^https://(www\\.|resources\\.)?infosecinstitute\\.com/",
+    "^https://fofa\\.so/",
+    "^https://linuxjourney\\.com/",
+    "^https://crt\\.sh/",
+]
+
+# youtube.com bloqueia/derruba conexões quando recebe muitas requisições
+# concorrentes na mesma execução (centenas de vídeos/playlists checados aqui).
+# Todos os casos observados eram falso-positivo (confirmado via oEmbed) —
+# reduzimos a concorrência só para esse host em vez de excluí-lo. Precisa vir
+# depois das chaves de nível superior (é uma tabela TOML).
+[hosts."www.youtube.com"]
+concurrency = 2

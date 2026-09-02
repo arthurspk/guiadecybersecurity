@@ -7,7 +7,7 @@
 
 ## :dart: O guia para alavancar a sua carreira
 
-Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profissional na área de segurança da informação ou se especializar caso você já atue na área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em segurança da informação, alguns sites ou artigos podem estar em um idioma diferente do seu, porém isso não impede que você consiga realizar a leitura do artigo ou site em questão, você pode utilizar a ferramenta de tradução do Google para traduzir: sites, arquivos, textos.
+> Cyber Security é a área que protege sistemas, redes, dados e pessoas contra ataques digitais — de phishing a ransomware, de uma API mal configurada a um modelo de IA manipulado por prompt injection. Este guia reúne trilha de estudo, cursos gratuitos e pagos, livros, ferramentas ofensivas e defensivas, laboratórios de prática (CTFs, máquinas vulneráveis, bug bounty), certificações e comunidades — tudo verificado e organizado para quem está entrando na área ou quer se especializar em uma trilha específica (pentest, blue team, AppSec, cloud security). Alguns materiais estão em inglês; isso não deve ser um empecilho para o seu estudo.
 
 <sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
@@ -19,35 +19,21 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g)
 </sub>
 
-## 💌 Doações
-
-> Olá! Se você está lendo isso, é porque provavelmente já conhece o meu repositório no GitHub, que oferece conteúdo gratuito para ajudar desenvolvedores a aprimorarem suas habilidades. E se você está aqui, talvez esteja considerando contribuir com uma doação para apoiar a continuação do projeto.
-
-- [Clique aqui para realizar realizar uma doação! 💓](https://beacons.ai/doacoesguiadev)
-
-> Se você quiser contribuir, existem várias opções disponíveis, incluindo PayPal, PagSeguro, Mercado Pago, Buy Me A Coffe, Pic Pay e Pix. Qualquer doação, por menor que seja, é extremamente bem-vinda e será usada com responsabilidade e transparência. Obrigado por considerar apoiar meu projeto! Juntos, podemos continuar a compartilhar conhecimento e ajudar a criar uma comunidade de desenvolvedores mais forte e colaborativa.
-
-## :closed_book: E-Book
-
-> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Você pode me ajudar comprando o e-book "e-Front" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento front-end. O e-book é completo e cobre tecnologias essenciais como HTML, CSS, JavaScript, React, TypeScript e mais. O valor é simbólico e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento front-end.
-
-- eFront - Estudando Desenvolvimento Front-end do Zero. [Clique aqui para comprar](https://hotm.art/cSMObU)
-
 ## ⚠️ Aviso importante
 
-> Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguinte maneiras
+> Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguintes maneiras:
 
 - Me siga no [Github](https://github.com/arthurspk)
 - Acesse as redes sociais do [Guia Dev Brasil](https://linktr.ee/guiadevbrasil)
-- Mande feedbacks no [Linkedin](https://www.linkedin.com/in/arthurspk/)
+- Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/arthurspk/)
 
 ## 💡 Nossa proposta
 
-> A proposta deste guia é fornecer conteúdos para seu estudo, para guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
+> A proposta deste guia é dar uma ideia sobre o atual panorama e guiá-lo se você estiver confuso sobre qual será o seu próximo aprendizado, sem influenciar você a seguir os 'hypes' e 'trends' do momento. Acreditamos que com um maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas. E lembre-se, 'hypes' e 'trends' nem sempre são as melhores opções.
 
 ## :beginner: Para quem está começando agora
 
-> Não se assuste com a quantidade de conteúdo apresentados neste guia. Acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
+> Não se assuste com a quantidade de conteúdo apresentado neste guia. Acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e ficar fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
 
 ## 🚨 Colabore
 
@@ -56,25 +42,27 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - Compartilhe o repositório com a sua comunidade
 
 ## 🌍 Tradução
-> Se você deseja acompanhar esse repositório em outro idioma que não seja o Português , você pode optar pelas escolhas de idiomas abaixo, você também pode colaborar com a tradução para outros idiomas e a correções de possíveis erros ortográficos, a comunidade agradece.
 
-<img src = "https://i.imgur.com/lpP9V2p.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>English — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/GprSvJe.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Spanish — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/4DX1q8l.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Chinese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/6MnAOMg.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Hindi — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/8t4zBFd.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Arabic — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/iOdzTmD.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>French — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/PILSgAO.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Italian — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/0lZOSiy.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Korean — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/3S5pFlQ.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Russian — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/i6DQjZa.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>German — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/wWRZMNK.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Japanese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+> Se você deseja acompanhar esse repositório em outro idioma que não seja o Português Brasileiro, você pode optar pelas escolhas de idiomas abaixo, você também pode colaborar com a tradução para outros idiomas e a correções de possíveis erros ortográficos, a comunidade agradece.
+
+<img src = "https://i.imgur.com/lpP9V2p.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>English — </b> [Click Here](https://github.com/arthurspk/guiadecybersecurity)<br>
+<img src = "https://i.imgur.com/GprSvJe.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Spanish — </b> [Click Here](https://github.com/arthurspk/guiadecybersecurity)<br>
+<img src = "https://i.imgur.com/4DX1q8l.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Chinese — </b> [Click Here](https://github.com/arthurspk/guiadecybersecurity)<br>
+<img src = "https://i.imgur.com/6MnAOMg.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Hindi — </b> [Click Here](https://github.com/arthurspk/guiadecybersecurity)<br>
+<img src = "https://i.imgur.com/8t4zBFd.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Arabic — </b> [Click Here](https://github.com/arthurspk/guiadecybersecurity)<br>
+<img src = "https://i.imgur.com/iOdzTmD.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>French — </b> [Click Here](https://github.com/arthurspk/guiadecybersecurity)<br>
+<img src = "https://i.imgur.com/PILSgAO.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Italian — </b> [Click Here](https://github.com/arthurspk/guiadecybersecurity)<br>
+<img src = "https://i.imgur.com/0lZOSiy.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Korean — </b> [Click Here](https://github.com/arthurspk/guiadecybersecurity)<br>
+<img src = "https://i.imgur.com/3S5pFlQ.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Russian — </b> [Click Here](https://github.com/arthurspk/guiadecybersecurity)<br>
+<img src = "https://i.imgur.com/i6DQjZa.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>German — </b> [Click Here](https://github.com/arthurspk/guiadecybersecurity)<br>
+<img src = "https://i.imgur.com/wWRZMNK.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Japanese — </b> [Click Here](https://github.com/arthurspk/guiadecybersecurity)<br>
 
 ## 📚 ÍNDICE
 
 [🗺️ Cyber Security roadmap](#%EF%B8%8F-cyber-security-roadmap) <br>
 [🔧 Ferramentas para tradução de conteúdo](#-ferramentas-para-tradução-de-conteúdo) <br>
 [🧥 Introdução a área de Cyber Security](#-introdução-a-área-de-cyber-security) <br>
+[📖 Documentação oficial](#-documentação-oficial) <br>
 [💼 Carreiras na área de Cyber Security](#-carreiras-na-área-de-cyber-security) <br>
 [🕵️‍♂️ Sites para estudar Cyber Security](#%EF%B8%8F%EF%B8%8F-sites-para-estudar-cyber-security) <br>
 [📰 Sites de noticias](#-sites-de-noticias-de-cyber-security) <br>
@@ -84,18 +72,21 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 [🎥 Canais do Youtube](#-canais-do-youtube) <br>
 [🔎 Ferramentas de busca](#-ferramentas-de-busca) <br>
 [📱 Ferramentas de Mobile](#-ferramentas-de-mobile) <br>
+[🧰 Ferramentas de defesa, SOC e threat intel](#-ferramentas-de-defesa-soc-e-threat-intel) <br>
 [🎤 Podcasts](#-podcasts-de-cyber-security) <br>
 [📽️ Palestras](#%EF%B8%8F-palestras) <br>
 [🃏 CheatSheets](#-cheatsheets) <br>
 [♟️ Exploitation](#%EF%B8%8F-exploitation) <br>
 [🎬 Documentários](#-documentários) <br>
 [🚩 Capture the Flag](#-capture-the-flag) <br>
+[🤖 IA na prática](#-ia-na-prática) <br>
 [🐧 Distros de Linux](#-distros-de-linux) <br>
 [💻 Máquinas Virtuais](#-máquinas-virtuais) <br>
 [💰 Sites de Bug Bounty](#-sites-de-bug-bounty) <br>
 [📮 Perfis no Twitter](#-perfis-no-twitter) <br>
 [✨ Perfis no Instagram](#-perfis-no-instagram) <br>
 [🎇 Comunidades no Reddit](#-comunidades-no-reddit) <br>
+[🇧🇷 Comunidades e eventos no Brasil](#-comunidades-e-eventos-no-brasil) <br>
 [🌌 Comunidades no Discord](#-comunidades-no-discord) <br>
 [📚 Recomendações de livros](#-recomendações-de-livros) <br>
 [🛠️ Frameworks e ferramentas de Hacking Web](#%EF%B8%8F-frameworks-e-ferramentas-de-hacking-web) <br>
@@ -126,13 +117,13 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ![Cyber Security roadmap](https://i.imgur.com/eq4uu7P.jpg)
 
+- [roadmap.sh — Cyber Security Roadmap](https://roadmap.sh/cyber-security) - Roadmap visual e interativo da comunidade, com trilha por tópico.
 ## 🔧 Ferramentas para tradução de conteúdo
 > Muito do conteúdo desse repositório pode se encontrar em um idioma diferente do Português , desta maneira, fornecemos algumas ferramentas para que você consiga realizar a tradução do conteúdo, lembrando que o intuito desse guia é fornecer todo o conteúdo possível para que você possa se capacitar na área de Cyber Security independente do idioma a qual o material é fornecido, visto que se você possuí interesse em consumir esse material isso não será um empecilho para você continue seus estudos.
 
 - [Google Translate](https://translate.google.com.br/?hl=pt-BR)
 - [Linguee](https://www.linguee.com.br/ingles-portugues/traducao/translate.html)
 - [DeepL](https://www.deepl.com/pt-BR/translator)
-- [Reverso](https://context.reverso.net/traducao/ingles-portugues/translate)
 
 ## 🧥 Introdução a área de Cyber Security
 > Também chamada de segurança de computadores ou segurança da tecnologia da informação, a cybersecurity é a prática de proteção de hardwares e softwares contra roubo ou danos, como servidores, dispositivos móveis, redes e aplicativos, as pessoas que atuam na área de Cyber Security de uma empresa são responsáveis por identificar todos os pontos vulneráveis do negócio no ambiente digital e em variados sistemas, o trabalho consiste em mapear todos os pontos fracos, que podem ser usados como porta de acesso para ataques virtuais. Além disso, é importante simular todos os possíveis ataques que poderiam ser realizados e criar proteções contra eles, antevendo os fatos para poder reforçar a segurança das informações e a redundância dos processos e sistemas de bancos de dados, a fim de evitar que haja interrupção de serviços, de uma forma geral, é esperado que as pessoas que trabalham com Cyber Security realizem uma série de atividades, tais como:
@@ -149,13 +140,28 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - Fazer testes de suscetibilidade;
 - Garantir plena segurança ao armazenamento de dados de empresas, lojas virtuais e outros.
 
+## 📖 Documentação oficial
+
+> Padrões, frameworks e guias de referência mantidos por organizações reconhecidas — a base para entender riscos, testar aplicações e avaliar ferramentas de IA com segurança.
+
+- [OWASP Top 10](https://owasp.org/Top10/) - Os dez riscos mais críticos em aplicações web, atualizados periodicamente pela comunidade OWASP.
+- [OWASP Top 10:2025](https://owasp.org/Top10/2025/) - Edição mais recente do clássico ranking de riscos web.
+- [OWASP Application Security Verification Standard (ASVS)](https://owasp.org/www-project-application-security-verification-standard/) - Checklist de requisitos para verificar a segurança de aplicações.
+- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/) - Guia completo de metodologia para testes de segurança web.
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - Folhas de referência rápida para dezenas de temas de segurança.
+- [OWASP Mobile Top 10](https://owasp.org/www-project-mobile-top-10/) - Principais riscos em aplicativos móveis.
+- [MITRE ATT&CK](https://attack.mitre.org/) - Base de conhecimento de táticas e técnicas usadas por atacantes reais.
+- [NICE Workforce Framework for Cybersecurity](https://niccs.cisa.gov/workforce-development/nice-framework) - Framework oficial dos EUA que mapeia funções e competências da área.
+- [CISA — Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools) - Catálogo de ferramentas e serviços gratuitos mantido pela agência de cibersegurança dos EUA.
+- [LGPD — Autoridade Nacional de Proteção de Dados (ANPD)](https://www.gov.br/anpd/pt-br) - Site oficial da autoridade brasileira de proteção de dados.
+
+
 ## 💼 Carreiras na área de Cyber Security
 > Nesse tópico você irá conhecer mais sobre as carreiras que você pode seguir dentro da área de Cyber Security, você encontrará as profissões em conjunto com um artigo ou video explicativo sobre como funciona.
 
 - [Forensics](https://imasters.com.br/carreira-dev/profissao-analista-forense-computacional)
 - [Biometrics](https://www.thoughtworks.com/pt-br/insights/decoder/b/biometrics)
 - [IA Security](https://successfulstudent.org/jobs-in-information-assurance-and-security/)
-- [IoT Security](https://www.quora.com/How-do-I-start-my-career-in-IoT-Security)
 - [Cryptography](https://www.wgu.edu/career-guide/information-technology/cryptographer-career.html#:~:text=What%20Does%20a%20Cryptographer%20Do,%2C%20business%2C%20or%20military%20data.)
 - [Cloud Security](https://www.cybersecurityjobsite.com/staticpages/10291/careers-in-cloud-security/#:~:text=Cloud%20security%20careers%20are%20set,these%20critical%20systems%20are%20safe.)
 - [Fraud Prevention](https://www.zippia.com/fraud-prevention-specialist-jobs/)
@@ -173,16 +179,14 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Cyber Security Engineer](https://onlinedegrees.sandiego.edu/should-you-become-a-cyber-security-engineer/#:~:text=Cybersecurity%20engineers%2C%20sometimes%20called%20information,and%20all%20types%20of%20cybercrime.)
 - [Advanced Cyber Analytics](https://www.coursera.org/articles/cybersecurity-analyst-job-guide)
 - [Vulnerability Management](https://www.ukcybersecuritycouncil.org.uk/qualifications-and-careers/careers-route-map/vulnerability-management/)
-- [Industrial Control Systems](https://ianmartin.com/careers/177380-industrial-control-system-ics-engineer/)
 - [Privacy and Data Protection](https://resources.infosecinstitute.com/topic/data-privacy-careers-which-path-is-right-for-you/)
 - [Data Protection Officer (DPO)](https://www.michaelpage.com.hk/advice/job-description/technology/data-protection-officer)
 - [Penetration Testing Engineer](https://onlinedegrees.sandiego.edu/vulnerability-and-penetration-testing/)
 - [Security and Risk Assessment](https://learn.org/articles/What_are_Some_Career_Options_in_Security_Risk_Assessment.html)
 - [Identity and Acess Management](https://identitymanagementinstitute.org/identity-and-access-management-career-and-jobs/#:~:text=Identity%20and%20access%20management%20career%20and%20jobs%20involve%20protecting%20systems,mechanism%20and%20have%20the%20appropriate)
 - [Software Development Security](https://cybersecurityguide.org/careers/security-software-developer/#:~:text=A%20security%20software%20developer%20is,written%20and%20verbal%20communication%20skills.)
-- [Offensive Security (Red Team)](https://careers.mitre.org/us/en/job/R107322/Offensive-Security-Red-Team-Developer)
+- [Offensive Security / Red Team](https://careers.mitre.org/us/en) - Vagas de segurança ofensiva na MITRE (busque por "Red Team" ou "Offensive Security").
 - [Defensive Security (Blue Team)](https://www.csnp.org/post/a-career-in-defensive-security-blue-team#:~:text=What%20is%20the%20Blue%20team,all%20the%20security%20measures%20applied.)
-- [Incident Handling And Analysis](https://www.ziprecruiter.com/Career/Incident-Response-Analyst/What-Is-How-to-Become)
 - [Introsuion Detection and Prevention](https://www.spiceworks.com/it-security/vulnerability-management/articles/what-is-idps/#:~:text=An%20intrusion%20detection%20and%20prevention,administrator%20and%20prevent%20potential%20attacks.)
 - [Information Security Governance](https://www.ukcybersecuritycouncil.org.uk/qualifications-and-careers/careers-route-map/cyber-security-governance-risk-management/)
 - [Security Frameworks and Standards](https://www.linkedin.com/pulse/overview-cyber-security-frameworks-standards-tommy/)
@@ -192,13 +196,11 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 - [HackXpert](https://hackxpert.com/) - Laboratórios e treinamentos gratuitos.
 - [TryHackMe](https://tryhackme.com/) - Exercícios práticos e laboratórios.
-- [CyberSecLabs](https://www.cyberseclabs.co.uk/) - Laboratórios de treinamento de alta qualidade.
 - [Cybrary](https://www.cybrary.it/) - Vídeos, laboratórios e exames práticos.
 - [LetsDefend](https://letsdefend.io/) - Plataforma de treinamento da blue team.
 - [Root Me](https://www.root-me.org/) - Mais de 400 desafios de cyber security.
 - [RangeForce](https://www.rangeforce.com/) - Plataforma interativa e prática. 
 - [Certified Secure](https://www.certifiedsecure.com/frontpage) - Muitos desafios diferentes.
-- [Vuln Machines](https://www.vulnmachines.com/) - Cenários do mundo real para praticar.
 - [Try2Hack](https://try2hack.me/) - Jogue um jogo baseado nos ataques reais.
 - [TCM Security](https://academy.tcm-sec.com/) - Cursos de nível básico para cyber security.
 - [EchoCTF](https://echoctf.red/) - Treine suas habilidades ofensivas e defensivas.
@@ -219,7 +221,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [CSO Online](https://www.csoonline.com/)
 - [The State of Security - Tripwire](https://www.tripwire.com/state-of-security/)
 - [The Last Watchdog](https://www.lastwatchdog.com/)
-- [Naked Security](https://nakedsecurity.sophos.com/)
 - [Graham Cluley](https://grahamcluley.com/)
 - [Cyber Magazine](https://cybermagazine.com/)
 - [WeLiveSecurity](https://www.welivesecurity.com/br/)
@@ -233,23 +234,17 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [GBHackers On Security](https://gbhackers.com/)
 - [The CyberWire](https://thecyberwire.com/)
 - [Cyber Defense Magazine](https://www.cyberdefensemagazine.com/)
-- [Hacker Combat](https://hackercombat.com/)
-- [Cybers Guards](https://cybersguards.com/)
 - [Cybersecurity Insiders](https://www.cybersecurity-insiders.com/)
 - [Information Security Buzz](https://informationsecuritybuzz.com/)
 - [The Security Ledger](https://securityledger.com/)
-- [Security Gladiators](https://securitygladiators.com/)
 - [Infosec Land](https://pentester.land/)
-- [Cyber Security Review](https://www.cybersecurity-review.com/)
 - [Comodo News](https://blog.comodo.com/)
 - [Internet Storm Center | SANS](https://isc.sans.edu/)
 - [Daniel Miessler](https://danielmiessler.com/)
 - [TaoSecurity](https://www.taosecurity.com/)
 - [Reddit](https://www.reddit.com/search/?q=Security%20news)
-- [All InfoSec News](https://allinfosecnews.com/)
 - [CVE Trends](https://cvetrends.com/)
 - [Securibee](https://securib.ee/)
-- [threatABLE](https://www.threatable.io/)
 - [Troy Hunt Blog](https://www.troyhunt.com/)
 - [Errata Security](https://blog.erratasec.com/)
 
@@ -258,7 +253,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [API Security Newsletter](https://apisecurity.io/) - Notícias e vulnerabilidades de segurança da API.
 - [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/) - Ferramentas, eventos, ameaças.
 - [We Live Security](https://www.welivesecurity.com/br/) - Notícias, visualizações e insights premiados.
-- [SecPro](https://www.thesec.pro/) - Análise de ameaças, ataques e tutoriais.
 - [Gov Info Security](https://www.govinfosecurity.com/) - Notícias governamentais de segurança cibernética nacionais e internacionais.
 - [Threatpost](https://threatpost.com/newsletter-sign/) - Exploits, vulnerabilidades, malware e segurança cibernética.
 - [AWS Security Digest](https://awssecuritydigest.com/) - Atualizações de segurança da AWS.
@@ -269,14 +263,11 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [CyberSecNewsWeekly](https://buttondown.email/CybersecNewsWeekly) - Coleção de notícias, artigos e ferramentas.
 - [RTCSec](https://www.rtcsec.com/newsletter/) - Notícias sobre segurança VOIP e WebRTC.
 - [This Week in 4n6](https://thisweekin4n6.com/) - Atualizações do DFIR.
-- [Securibee Newsletter](https://securib.ee/newsletter/) - Notícias de segurança cibernética com curadoria.
 - [Shift Security Left](https://shift-security-left.curated.co/) - Segurança, arquitetura e incidentes de aplicativos.
 - [TripWire’s State of Security](https://www.tripwire.com/state-of-security/) - Notícias de segurança cibernética corporativa.
 - [Graham Cluley](https://grahamcluley.com/gchq-newsletter/) - Notícias e opiniões sobre segurança cibernética.
 - [Zero Day](https://zetter.substack.com/) - Histórias sobre hackers, espiões e crimes cibernéticos.
 - [The Hacker News](https://thehackernews.com/#email-outer) - Notícias de cibersegurança.
-- [CSO Online](https://www.csoonline.com/newsletters/signup.html) - Notícias, análises e pesquisas sobre segurança e gerenciamento de riscos.
-- [Naked Security](https://nakedsecurity.sophos.com/) - Como se proteger de ataques.
 - [AdvisoryWeek](https://advisoryweek.com/) - Resumos de consultoria de segurança dos principais fornecedores.
 - [tl;dr sec Newsletter](https://tldrsec.com/) - Ferramentas, posts em blogs, conferências e pesquisas.
 
@@ -335,7 +326,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 ## 🔗 Testes de segurança de API
 
 > Cursos, videos, artigos, blogs, podcast sobre testes de segurança de API em Português 
-- [Segurança em APIs REST](https://blog.mandic.com.br/artigos/seguranca-em-apis-rest-parte-1/)
 - [Segurança de APIs - Red Hat](https://www.redhat.com/pt-br/topics/security/api-security)
 - [Segurança de API: 5 melhores práticas para controlar riscos](https://www.bry.com.br/blog/seguranca-de-api/)
 - [O que é Segurança de API](https://minutodaseguranca.blog.br/o-que-e-seguranca-de-api/)
@@ -346,10 +336,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Bad API, hAPI Hackers! by jr0ch17](https://www.youtube.com/watch?v=UT7-ZVawdzA&ab_channel=Bugcrowd)
 - [OWASP API Security Top 10 Webinar](https://www.youtube.com/watch?v=zTkv_9ChVPY&ab_channel=42Crunch)
 - [How to Hack APIs in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
-- [Let's build an API to hack](https://hackxpert.com/blog/API-Hacking-Excercises/Excercises%207e5f4779cfe34295a0d477a12c05ecbd/Let's%20build%20an%20API%20to%20hack%20-%20Part%201%20The%20basics%2007599097837a4f539104b20376346b7e.html)
 - [Bugcrowd, API Security 101 - Sadako](https://www.youtube.com/watch?v=ijalD2NkRFg&ab_channel=Bugcrowd)
 - [David Bombal, Free API Hacking Course](https://www.youtube.com/watch?v=CkVvB5woQRM&ab_channel=DavidBombal)
-- [How To Hack API In 60 Minutes With Open Source Tools](https://www.wallarm.com/what/how-to-hack-api-in-60-minutes-with-open-source)
 - [APIsecurity IO, API Security Articles](https://apisecurity.io/)
 - [The API Security Maturity Model](https://curity.io/resources/learn/the-api-security-maturity-model/)
 - [API Security Best Practices MegaGuide](https://expeditedsecurity.com/api-security-best-practices-megaguide/)
@@ -365,6 +353,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Finding and Exploiting Unintended Functionality in Main Web App APIs](https://bendtheory.medium.com/finding-and-exploiting-unintended-functionality-in-main-web-app-apis-6eca3ef000af)
 - [API Security: The Complete Guide to Threats, Methods & Tools](https://brightsec.com/blog/api-security/)
 
+- [OWASP API Security Project](https://owasp.org/www-project-api-security/) - Top 10 de riscos e boas práticas oficiais para segurança de APIs.
+- [OWASP crAPI](https://github.com/OWASP/crAPI) - API deliberadamente vulnerável ("completely ridiculous API") para praticar.
+- [VAmPI](https://github.com/erev0s/VAmPI) - API REST vulnerável com o OWASP API Top 10 para praticar exploração.
 ## 🎥 Canais do Youtube
 
 - [Mente binária](https://www.youtube.com/c/PapoBin%C3%A1rio) - Contéudo geral sobre Cyber Security
@@ -414,6 +405,10 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow) - Envolve hacking, vídeos de gravação e capture the flags.
 - [The PC Security Channel](https://www.youtube.com/c/thepcsecuritychannel) - Segurança do Windows, notícias sobre malware e tutoriais.
 
+- [CISOCAST Brasil](https://www.youtube.com/@cisocast) - Conteúdo em português para quem lidera e trabalha com segurança da informação.
+- [TryHackMe](https://www.youtube.com/@RealTryHackMe) - Canal oficial da plataforma, com walkthroughs e dicas de estudo.
+- [Hack The Box](https://www.youtube.com/@HackTheBox) - Canal oficial da plataforma, com writeups e eventos de CTF.
+- [PortSwigger](https://www.youtube.com/@PortSwiggerTV) - Canal oficial com pesquisas e técnicas de segurança web.
 ## 🔎 Ferramentas de busca
 
 - [Dehashed](https://www.dehashed.com/) - Veja as credenciais vazadas.
@@ -424,7 +419,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Pulsedive](https://pulsedive.com/) - Procure por inteligência de ameaças.
 - [GrayHatWarfare](https://grayhatwarfare.com/) - Pesquise buckets S3 públicos.
 - [PolySwarm](https://polyswarm.io/) - Verifique arquivos e URLs em busca de ameaças.
-- [Fofa](http://fofa.so/) - Procure por várias inteligências de ameaças.
+- [Fofa](https://fofa.so/) - Procure por várias inteligências de ameaças.
 - [LeakIX](https://leakix.net/) - Pesquise informações indexadas publicamente.
 - [DNSDumpster](https://dnsdumpster.com/) - Pesquise registros DNS rapidamente.
 - [FullHunt](https://fullhunt.io/) - Superfícies de ataque de pesquisa e descoberta.
@@ -456,9 +451,20 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Drozer](https://github.com/WithSecureLabs/drozer)
 - [Needle](https://github.com/WithSecureLabs/needle)
 
+## 🧰 Ferramentas de defesa, SOC e threat intel
+
+- [Wazuh](https://wazuh.com/) - Plataforma open source de XDR/SIEM para monitoramento, detecção e resposta a ameaças.
+- [Velociraptor](https://docs.velociraptor.app/) - Ferramenta de forense digital e resposta a incidentes (DFIR) em escala.
+- [MISP](https://www.misp-project.org/) - Plataforma open source de compartilhamento de inteligência de ameaças.
+- [OpenCTI](https://github.com/OpenCTI-Platform/opencti) - Plataforma open source para organizar e correlacionar dados de threat intelligence.
+- [Trivy](https://trivy.dev/) - Scanner open source de vulnerabilidades, secrets e má configuração em containers e IaC.
+- [Grype](https://github.com/anchore/grype) - Scanner de vulnerabilidades para imagens de container e sistemas de arquivos.
+- [Semgrep](https://semgrep.dev/) - Análise estática (SAST) leve e rápida para encontrar bugs de segurança no código.
+
+
 ## 🎤 Podcasts de Cyber Security
 
-- [Cyber Work](https://www.infosecinstitute.com/podcast/)
+- [Cyber Work](https://www.infosecinstitute.com/podcast/) - Podcast da Infosec Institute sobre carreiras em cyber security.
 - [Click Here](https://therecord.media/podcast/)
 - [Defrag This](https://open.spotify.com/show/6AIuefXVoa6XXriNo4ZAuF)
 - [Security Now](https://twit.tv/shows/security-now)
@@ -473,15 +479,12 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [What The Shell](https://open.spotify.com/show/3QcBl6Yf1E3rLdz3UJEzOM)
 - [Life of a CISO](https://open.spotify.com/show/3rn3xiUMELnMtAPHMOebx2)
 - [H4unt3d Hacker](https://thehauntedhacker.com/podcasts)
-- [2 Cyber Chicks](https://www.itspmagazine.com/2-cyber-chicks-podcast)
 - [The Hacker Mind](https://thehackermind.com/)
 - [Security Weekly](https://securityweekly.com/)
 - [Cyberside Chats](https://open.spotify.com/show/6kqTXF20QV3gphPsikl1Uo)
 - [Darknet Diaries](https://darknetdiaries.com/)
 - [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
 - [Absolute AppSec](https://absoluteappsec.com/)
-- [Security in Five](https://securityinfive.libsyn.com/)
-- [The Cyber Queens](https://www.cyberqueenspodcast.com/)
 - [Smashing Security](https://www.smashingsecurity.com/)
 - [401 Access Denied](https://delinea.com/events/podcasts)
 - [7 Minute Security](https://7minsec.com/)
@@ -489,20 +492,13 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Adopting Zero Trust](https://open.spotify.com/show/5hrfiDWuthYUQwj7wyIMzI)
 - [Cyber Crime Junkies](https://cybercrimejunkies.com/)
 - [Dr Dark Web Podcast](https://www.cybersixgill.com/resources/podcast/)
-- [Cyber Security Sauna](https://www.withsecure.com/en/whats-new/podcasts)
-- [The Cyberlaw Podcast](https://www.lawfareblog.com/topic/cyberlaw-podcast)
 - [Unsupervised Learning](https://open.spotify.com/show/0cIzWAEYacLz7Ag1n1YhUJ)
-- [Naked Security Podcast](https://nakedsecurity.sophos.com/podcast/)
 - [Identity at the Center](https://www.identityatthecenter.com/)
 - [Breaking Down Security](https://www.brakeingsecurity.com/)
 - [The Shellsharks Podcast](https://shellsharks.com/podcast)
 - [The Virtual CISO Moment](https://virtual-ciso.us/)
-- [The Cyber Ranch Podcast](https://hackervalley.com/cyberranch/)
-- [The Cyber Tap (cyberTAP)](https://cyber.tap.purdue.edu/cybertap-podcast/)
 - [The Shared Security Show](https://sharedsecurity.net/)
 - [The Social-Engineer Podcast](https://open.spotify.com/show/6Pmp3DQKUDW6DXBlnGpxkH)
-- [The 443 Security Simplified](https://www.secplicity.org/category/the-443/)
-- [Adventures of Alice and Bob](https://www.beyondtrust.com/podcast)
 - [Cybersecurity Today by ITWC](https://open.spotify.com/show/2YiPcnkJLIcxtQ04nCfaSu)
 - [Crypto-Gram Security Podcast](https://crypto-gram.libsyn.com/)
 - [Open Source Security Podcast](https://opensourcesecurity.io/category/podcast/)
@@ -510,10 +506,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [The Hacker Chronicles Podcast](https://www.tenable.com/podcast/hacker-chronicles)
 - [BarCode Cybersecurity Podcast](https://thebarcodepodcast.com/)
 - [Task Force 7 Cyber Security Radio](https://www.tf7radio.com/)
-- [The Privacy, Security, & OSINT Show](https://inteltechniques.com/podcast.html)
-- [Cyber Security Headlines by the CISO Series](https://cisoseries.com/category/podcast/cyber-security-headlines/)
 - [SANS Internet Stormcenter Daily Cyber Podcast](https://podcasts.apple.com/us/podcast/sans-internet-stormcenter-daily-cyber-security-podcast/id304863991)
 
+- [DevSecOps Podcast](https://www.devsecopspodcast.com.br/) - Podcast brasileiro sobre DevSecOps, segurança de aplicações e cultura de engenharia.
 ## 📽️ Palestras
 
 - [Hardware Hacking e Bad USB - Leonardo La Rosa](https://www.youtube.com/watch?v=s25Fw69u9tM&ab_channel=MeninadeCybersec)
@@ -583,17 +578,14 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [CTFChallenge](https://ctfchallenge.co.uk/)
 - [Attack-Defense](https://attackdefense.com/)
 - [Alert to win](https://alf.nu/alert1)
-- [Bancocn](https://bancocn.com/)
-- [CTF Komodo Security](https://ctf.komodosec.com/)
 - [CryptoHack](https://cryptohack.org/)
-- [CMD Challenge](https://cmdchallenge.com/http://overthewire.org/)
+- [CMD Challenge](https://cmdchallenge.com/) - Pratique comandos de terminal Linux/Bash direto no navegador.
 - [Explotation Education](https://exploit.education/)
 - [Google CTF](https://lnkd.in/e46drbz8)
 - [Hackthis](https://www.hackthis.co.uk/)
 - [Hacksplaining](https://lnkd.in/eAB5CSTA)
 - [Hacker Security](https://lnkd.in/ex7R-C-e)
 - [Hacking-Lab](https://hacking-lab.com/)
-- [HSTRIKE](https://hstrike.com/)
 - [ImmersiveLabs](https://immersivelabs.com/)
 - [NewbieContest](https://lnkd.in/ewBk6fU5)
 - [OverTheWire](http://overthewire.org/)
@@ -612,10 +604,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Zenk-Security](https://lnkd.in/ewJ5rNx2)
 - [Cyber Defenders](https://lnkd.in/dVcmjEw8)
 - [LetsDefend](https://letsdefend.io/)
-- [Vulnmachines](https://vulnmachines.com/)
 - [Rangeforce](https://www.rangeforce.com/)
 - [Ctftime](https://ctftime.org/)
-- [Pwn college](https://dojo.pwn.college/)
+- [Pwn College](https://pwn.college/) - Plataforma de treinamento em segurança ofensiva da Arizona State University, com CTFs e cursos gratuitos.
 - [Free Money CTF](https://bugbase.in/)
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
@@ -624,6 +615,53 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [DVWA](https://dvwa.co.uk/)
 - [bWAPP](http://www.itsecgames.com/)
 - [Metasploitable2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
+
+- [picoCTF / CyLab Security Academy](https://picoctf.org/) - CTF educacional gratuito da Carnegie Mellon, ótimo para iniciantes.
+- [CTFtime](https://ctftime.org/) - Calendário e ranking de competições de CTF no mundo todo.
+- [PortSwigger Web Security Academy — All Labs](https://portswigger.net/web-security/all-labs) - Todos os laboratórios práticos gratuitos da Web Security Academy em uma página.
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - Aplicação web propositalmente vulnerável, o projeto OWASP mais usado para treinar AppSec.
+- [Hacker101 CTF](https://ctf.hacker101.com/) - CTF gratuito da HackerOne, com níveis que liberam convites para programas privados de bug bounty.
+- [Blue Team Labs Online](https://blueteamlabs.online/) - Cyber range com desafios de investigação para blue team.
+- [CyberDefenders](https://cyberdefenders.org/) - Laboratórios de DFIR e blue team baseados em casos reais.
+## 🤖 IA na prática
+
+> Modelos de linguagem já fazem parte do arsenal de quem ataca e de quem defende. Esta seção reúne ferramentas de IA aplicadas à segurança ofensiva e defensiva, o campo emergente de segurança de sistemas de IA (AI security) e onde praticar. Use essas ferramentas apenas em ambientes autorizados: a mesma legislação que se aplica a pentest tradicional no Brasil (Lei 12.737/2012, Marco Civil da Internet) vale para ataques assistidos por IA.
+
+> Ferramentas de IA para segurança
+
+- [PentestGPT](https://github.com/GreyDGL/PentestGPT) - Framework que usa LLMs para automatizar e orientar etapas de um teste de penetração.
+- [XBOW](https://xbow.com/) - Plataforma autônoma de pentest ofensivo orientada por IA, já usada em programas de bug bounty.
+- [Burp AI](https://portswigger.net/burp/ai) - Recursos de IA integrados ao Burp Suite para acelerar a análise de aplicações web.
+- [Microsoft Security Copilot](https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot) - Assistente de IA para investigação de incidentes e resposta em ambientes corporativos.
+- [GitHub Copilot Autofix](https://docs.github.com/en/code-security/code-scanning/managing-code-scanning-alerts/responsible-use-autofix-code-scanning) - Sugestões de correção geradas por IA para alertas de code scanning no GitHub.
+
+> Segurança de sistemas de IA (AI security)
+
+- [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) - Os dez riscos mais críticos específicos de aplicações com LLMs.
+- [OWASP Gen AI Security Project](https://genai.owasp.org/) - Projeto guarda-chuva da OWASP para segurança de IA generativa.
+- [MITRE ATLAS](https://atlas.mitre.org/) - Base de conhecimento de ataques adversariais a sistemas de IA e machine learning.
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) - Framework oficial do governo dos EUA para gerenciar riscos de sistemas de IA.
+- [SAIF — Google's Guide to Secure AI](https://saif.google/) - Framework do Google com boas práticas para desenvolver e operar IA com segurança.
+- [OWASP AI Exchange](https://owaspai.org/) - Guia colaborativo sobre ameaças e controles de segurança para IA.
+- [NVIDIA garak](https://github.com/NVIDIA/garak) - Scanner de vulnerabilidades para LLMs (prompt injection, jailbreak, vazamento de dados).
+- [Microsoft PyRIT](https://github.com/Azure/PyRIT) - Framework Python para red teaming automatizado de sistemas de IA generativa.
+- [Promptfoo](https://www.promptfoo.dev/) - Ferramenta de teste e red teaming de prompts, agentes e aplicações RAG.
+- [Protect AI LLM Guard](https://github.com/protectai/llm-guard) - Toolkit para detectar e mitigar riscos em entradas e saídas de LLMs em produção.
+- [Meta PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Conjunto de ferramentas da Meta para avaliar e melhorar a segurança de modelos de linguagem.
+- [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security) - Lista curada de ferramentas, papers e artigos sobre segurança de LLMs.
+
+> Praticar: desafios de prompt injection e LLM hacking
+
+- [Gandalf (Lakera)](https://gandalf.lakera.ai/) - Jogo gratuito para praticar prompt injection contra um LLM, em ordem crescente de dificuldade.
+- [Prompt Airlines (Wiz)](https://promptairlines.com/) - CTF gratuito de prompt injection ambientado em um chatbot de companhia aérea.
+- [PortSwigger — LLM attacks](https://portswigger.net/web-security/llm-attacks) - Módulo da Web Security Academy dedicado a ataques contra aplicações com LLMs.
+
+> Leituras: como a IA está mudando ataque e defesa
+
+- [Anthropic — Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage) - Relato da Anthropic sobre uma campanha de espionagem conduzida majoritariamente por um agente de IA.
+- [Anthropic — Mitigating prompt injection risks in browser use](https://www.anthropic.com/research/prompt-injection-defenses) - Pesquisa da Anthropic sobre defesas contra prompt injection em agentes que navegam na web.
+- [Google Cloud — Adversarial Misuse of Generative AI](https://cloud.google.com/blog/topics/threat-intelligence/adversarial-misuse-generative-ai) - Análise do Google sobre como atacantes reais estão usando IA generativa.
+
 
 ## 🐧 Distros de Linux
 
@@ -634,21 +672,20 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Pop!\_Os](https://pop.system76.com/) - Distribuição Linux Pop!\_Os
 - [Debian](https://www.debian.org/) - Distribuição Linux Debian
 - [Ubuntu](https://ubuntu.com/) - Distribuição Linux Ubuntu
-- [Fedora](https://getfedora.org/pt_BR/) - Distribuição Linux Fedora
+- [Fedora](https://fedoraproject.org/en/) - Distribuição Linux Fedora
 - [Linux Mint](https://linuxmint.com/) - Distribuição Linux Mint
 - [OpenSUSE](https://www.opensuse.org) - Distribuição Linux OpenSUS
-- [KDE Neon](https://www.neon.kde.org) - Distribuição Linux KDE Neon
+- [KDE Neon](https://neon.kde.org/) - Distribuição Linux KDE Neon
 - [Solus](https://www.getsol.us) - Distribuição Linux Solus
-- [Tails](https://www.tails.boum.org) - Distribuição Linux Tails
+- [Tails](https://tails.net/) - Distribuição Linux Tails focada em anonimato e privacidade.
 - [Zorin OS](https://zorin.com/os/) - Distribuição Linux Zorin
 - [Kubuntu](https://kubuntu.org/) - Distribuição Linux Kubuntu
 
 ## 💻 Máquinas Virtuais
 
 - [Oracle VM VirtualBox](https://www.virtualbox.org/)
-- [VMware Workstation](https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html)
 - [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html)
-- [VMware Fusion](https://www.vmware.com/br/products/fusion.html)
+- [VMware Workstation & Fusion](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) - Hypervisors de desktop da Broadcom/VMware (gratuitos para uso pessoal).
 - [Vagrant](https://www.vagrantup.com/)
 
 ## 💰 Sites de Bug Bounty
@@ -708,6 +745,19 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Red Team Security](https://www.reddit.com/r/redteamsec/)
 - [Blue Team Security](https://www.reddit.com/r/blueteamsec/)
 - [Purple Team Security](https://www.reddit.com/r/purpleteamsec/)
+
+## 🇧🇷 Comunidades e eventos no Brasil
+
+- [OWASP São Paulo](https://owasp.org/www-chapter-sao-paulo/) - Capítulo brasileiro da OWASP em São Paulo.
+- [OWASP Brasília](https://owasp.org/www-chapter-brasilia/) - Capítulo brasileiro da OWASP em Brasília.
+- [OWASP Belo Horizonte](https://owasp.org/www-chapter-belo-horizonte/) - Capítulo brasileiro da OWASP em Belo Horizonte.
+- [OWASP Rio de Janeiro](https://owasp.org/www-chapter-rio-de-janeiro/) - Capítulo brasileiro da OWASP no Rio de Janeiro.
+- [OWASP Curitiba](https://owasp.org/www-chapter-curitiba/) - Capítulo brasileiro da OWASP em Curitiba.
+- [OWASP Porto Alegre](https://owasp.org/www-chapter-porto-alegre/) - Capítulo brasileiro da OWASP em Porto Alegre.
+- [Lista completa de capítulos OWASP](https://owasp.org/chapters/) - Encontre o capítulo OWASP mais próximo de você, no Brasil e no mundo.
+- [CTF-BR](https://ctf-br.org/) - Comunidade brasileira dedicada a divulgar e organizar CTFs.
+- [Telegram CTF-BR](https://t.me/ctfbr) - Grupo no Telegram da comunidade CTF-BR.
+
 
 ## 🌌 Comunidades no Discord
 
@@ -771,7 +821,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com.br/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
 - [Web Hacking 101](https://www.goodreads.com/book/show/33596532-web-hacking-101)
 - [Mastering Modern Web Penetration Testing](https://www.amazon.com.br/Mastering-Modern-Penetration-Testing-English-ebook/dp/B01GVMSTEO)
-- [Bug Bounty Playbook](https://payhip.com/b/wAoh)
 - [Real-World Bug Hunting: A Field Guide to Web Hacking](https://www.amazon.com.br/Real-World-Bug-Hunting-Field-Hacking/dp/1593278616)
 - [OWASP Testing Guide V10](https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf)
 - [Black Hat Python: Python Programming for Hackers and Pentesters](https://www.amazon.com.br/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=asc_df_1593275900/?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=12817915842755546773&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-406163956473&psc=1)
@@ -792,6 +841,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Rtfm: Red Team Field Manual](https://www.amazon.com.br/Rtfm-Red-Team-Field-Manual/dp/1494295504)
 - [Blue Team Field Manual (BTFM)](https://www.amazon.com.br/Blue-Team-Field-Manual-Btfm/dp/154101636X)
 
+- [Evading EDR](https://nostarch.com/evading-edr) - Livro (No Starch Press) sobre como funcionam soluções de EDR e técnicas usadas para contorná-las, essencial para blue e red team. Livro pago.
+- [Practical Social Engineering](https://nostarch.com/practical-social-engineering) - Livro (No Starch Press) com um framework prático para campanhas de engenharia social autorizadas. Livro pago.
 ## 🛠️ Frameworks e ferramentas de Hacking Web
 
 - [Burp Suite](https://portswigger.net/burp) - Framework.
@@ -817,13 +868,14 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Parameth](https://github.com/maK-/parameth) - Bruteforce GET and POST parameters.
 - [truffleHog](https://github.com/trufflesecurity/trufflehog) - Encontrar credenciais em commits do GitHub.
 
+- [Caido](https://caido.io/) - Proxy de auditoria web leve e moderno, alternativa ao Burp Suite escrita em Rust.
+- [Katana](https://github.com/projectdiscovery/katana) - Crawler de nova geração da ProjectDiscovery para mapear aplicações web.
 ## 🪓 Ferramentas para obter informações 
 
 - [theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomínios e nomes Harvester.
 - [CTFR](https://github.com/UnaPibaGeek/ctfr) - Abusando de logs de transparência de certificado para obter subdomínios de sites HTTPS.
 - [Sn1per](https://github.com/1N3/Sn1per) - Scanner automatizado de reconhecimento de pentest.
 - [RED Hawk](https://github.com/Tuhinshubhra/RED_HAWK) - Tudo em uma ferramenta para coleta de informações, verificação de vulnerabilidades e rastreamento. Uma ferramenta obrigatória para todos os testadores de penetração.
-- [Infoga](https://github.com/m4ll0k/Infoga) - Coleta de informações de e-mail.
 - [KnockMail](https://github.com/4w4k3/KnockMail) - Verifique se o endereço de e-mail existe.
 - [a2sv](https://github.com/hahwul/a2sv) - Verificação automática para vulnerabilidade SSL.
 - [Wfuzz](https://github.com/xmendez/wfuzz) - Fuzzer de aplicativos da web.
@@ -842,6 +894,11 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [TxTool](https://github.com/kuburan/txtool)
 - [All Pentesting Tools](https://github.com/nullsecuritynet/tools)
 
+- [BloodHound](https://github.com/SpecterOps/BloodHound) - Mapeia relações de Active Directory/Entra ID para encontrar caminhos de ataque a Domain Admin.
+- [Sliver](https://github.com/BishopFox/sliver) - Framework open source de emulação de adversário (C2), alternativa ao Cobalt Strike.
+- [Havoc](https://github.com/HavocFramework/Havoc) - Framework de C2 moderno e modular para red team.
+- [Ghidra](https://ghidra-sre.org/) - Suíte de engenharia reversa de software mantida pela NSA, gratuita e open source.
+- [Responder](https://github.com/lgandx/Responder) - Ferramenta de poisoning LLMNR/NBT-NS/mDNS para pentest de redes Windows.
 ## 🔨 Ferramentas para Hardware Hacking
 
 - [Multímetro Digital](http://s.click.aliexpress.com/e/_d8he3mb)
@@ -910,7 +967,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [C Programming Tutorials - The New Boston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
 - [C Programming - IntelliPaat](https://www.youtube.com/playlist?list=PLVHgQku8Z935hrZwx751XoyqDROH_tYMY)
 - [Learn C programming - edureka!](https://www.youtube.com/playlist?list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9)
-- [C Programming Tutorials - Saurabh Shukla](https://www.youtube.com/playlist?list=PLe_7x5eaUqtWp9fvsxhC4XIkoR3n5A-sF)
 
 ## 🐬 Sites e cursos para aprender Go
 
@@ -1021,7 +1077,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [C++ Tutorial for Beginners - Complete Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y&ab_channel=freeCodeCamp.org) 
 - [C++ Programming All-in-One Tutorial Series (10 HOURS!)](https://www.youtube.com/watch?v=_bYFu9mBnr4&ab_channel=CalebCurry) 
 - [C++ Full Course 2022](https://www.youtube.com/watch?v=SYd5F4gIH90&ab_channel=Simplilearn) 
-- [C++ Crash Course](https://www.youtube.com/watch?v=uhFpPlMsLzY&ab_channel=BroCode) 
 - [C++ - The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) 
 - [C++ Full Course | C++ Tutorial | Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) 
 - [C++ Programming - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS) 
@@ -1056,7 +1111,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Curso PHP 8 y MySQL 8 desde cero](https://www.youtube.com/playlist?list=PLZ2ovOgdI-kUSqWuyoGJMZL6xldXw6hIg)
 - [Curso de PHP completo desde cero](https://www.youtube.com/playlist?list=PLg9145ptuAij8vIQLU25f7sUSH4E8pdY5)
 - [Curso completo PHP y MySQL principiantes-avanzado](https://www.youtube.com/playlist?list=PLvRPaExkZHFkpBXXCsL2cn9ORTTcPq4d7)
-- [Curso PHP Básico](https://www.youtube.com/playlist?list=PL469D93BF3AE1F84F)
 - [PHP desde cero](https://www.youtube.com/playlist?list=PLAzlSdU-KYwW9eWj88DW55gTi1M5HQo5S)
 
 > Cursos para aprender PHP em Inglês
@@ -1172,7 +1226,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Ruby Programming Language - Full Course](https://www.youtube.com/watch?v=t_ispmWmdjY&ab_channel=freeCodeCamp.org)
 - [Ruby on Rails Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=-AdqKjqHQIA&ab_channel=CodeGeek)
 - [Learn Ruby on Rails from Scratch](https://www.youtube.com/watch?v=2zZCzcupQao&ab_channel=ProgrammingKnowledge)
-- [The complete ruby on rails developer course](https://www.youtube.com/watch?v=y4pKYYMdAA0&ab_channel=FullCourse)
 - [Ruby on Rails for Beginners](https://www.youtube.com/playlist?list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56)
 - [Ruby on Rails Full Course](https://www.youtube.com/playlist?list=PLsikuZM13-0zOytkeVGSKk4VTTgE8x1ns)
 - [Full Stack Ruby on Rails Development Bootcamp](https://www.youtube.com/playlist?list=PL6SEI86zExmsdxwsyEQcFpF9DWmvttPPu)
@@ -1220,7 +1273,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [212 Bash Scripting Examples](https://www.youtube.com/watch?v=q2z-MRoNbgM&ab_channel=linuxhint)
 - [Linux Bash for beginners 2022](https://www.youtube.com/watch?v=qALScO3E61I&ab_channel=GPS)
 - [Bash scripting tutorial for beginners](https://www.youtube.com/watch?v=9T2nEXlLy9o&ab_channel=FortifySolutions)
-- [Linux CLI Crash Course - Fundamentals of Bash Shell](https://www.youtube.com/watch?v=S99sQLravYo&ab_channel=codedamn)
 - [Shell Scripting](https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT)
 - [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)
 - [Bash Scripting | Complete Course](https://www.youtube.com/playlist?list=PLgmzaUQcOhaqQjXaqz7Ky5a_xj_8OlCK4)
@@ -1233,24 +1285,16 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 > Sites para aprender MySQL
 - [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
 - [SQLBolt](https://sqlbolt.com/)
-- [LinuxJedi](https://linuxjedi.co.uk/tag/mysql/)
 - [SQLCourse](https://www.sqlcourse.com/)
 - [CodeQuizzes](https://www.codequizzes.com/apache-spark/spark/datasets-spark-sql)
-- [Planet MySQL](https://planet.mysql.com/pt/)
-- [MySQL Learn2torials](https://learn2torials.com/category/mysql)
-- [Learn MySQL, Memrise](https://app.memrise.com/course/700054/learn-mysql/)
 - [Tizag MySQL Tutorials](http://www.tizag.com/mysqlTutorial/)
 - [W3Schools SQL Tutorials](https://www.w3schools.com/sql/)
 - [SQL Basics Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
-- [Phptpoint MySQL Tutorial](https://www.phptpoint.com/mysql-tutorial/)
 - [RoseIndia MySQL Tutorials](https://www.roseindia.net/mysql/)
-- [MySQL on Linux Like Geeks](https://likegeeks.com/mysql-on-linux-beginners-tutorial/)
-- [Mastering MySQL by Mark Leith](http://www.markleith.co.uk/)
 - [Tutorials Point MySQL Tutorial](https://www.tutorialspoint.com/mysql/index.htm)
 - [KillerPHP MySQL Video Tutorials](https://www.killerphp.com/mysql/videos/)
 - [PYnative MySQL Database Tutorial](https://pynative.com/python/databases/)
 - [Digital Ocean Basic MySQL Tutorial](https://www.digitalocean.com/community/tags/mysql)
-- [Journal to SQL Authority, Pinal Dave](https://blog.sqlauthority.com/)
 - [MySQL Tutorial, Learn MySQL Fast, Easy and Fun](https://www.mysqltutorial.org/)
 
 > Cursos para aprender MySQL em Português 
@@ -1272,7 +1316,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 > Cursos para aprender MySQL em Inglês
 - [The New Boston MySQL Videos](https://www.youtube.com/playlist?list=PL32BC9C878BA72085)
 - [MySQL For Beginners, Programming With Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA&ab_channel=ProgrammingwithMosh)
-- [Complete MySQL Beginner to Expert](https://www.youtube.com/watch?v=en6YPAgc6WM&ab_channel=FullCourse)
 - [Full MySQL Course for Beginners](https://www.youtube.com/playlist?list=PLyuRouwmQCjlXvBkTfGeDTq79r9_GoMt9)
 - [MySQL Complete Tutorial for Beginners 2022](https://www.youtube.com/playlist?list=PLjVLYmrlmjGeyCPgdHL2vWmEGKxcpsC0E)
 - [SQL for Beginners (MySQL)](https://www.youtube.com/playlist?list=PLUDwpEzHYYLvWEwDxZViN1shP-pGyZdtT)
@@ -1293,7 +1336,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [It's FOSS](https://itsfoss.com/)
 - [Linux Hint](https://linuxhint.com/)
 - [FOSS Linux](https://www.fosslinux.com/)
-- [LinuxOPsys](https://linuxopsys.com/)
 - [Linux Journey](https://linuxjourney.com/)
 - [Linux Command](https://linuxcommand.org/)
 - [Linux Academy](https://linuxacademy.org/)
@@ -1302,7 +1344,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Ryan's Tutorials](https://ryanstutorials.net/)
 - [LinuxFoundationX](https://www.edx.org/school/linuxfoundationx)
 - [LabEx Linux For Noobs](https://labex.io/courses/linux-for-noobs)
-- [Conquering the Command Line](http://conqueringthecommandline.com/)
 - [Guru99 Linux Tutorial Summary](https://www.guru99.com/unix-linux-tutorial.html)
 - [Eduonix Learn Linux From Scratch](https://www.eduonix.com/courses/system-programming/learn-linux-from-scratch)
 - [TLDP Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
@@ -1375,7 +1416,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Swift Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=comQ1-x2a1Q&ab_channel=freeCodeCamp.org)
 - [Learn Swift Fast (2020) - Full Course For Beginners](https://www.youtube.com/watch?v=FcsY1YPBwzQ&ab_channel=CodeWithChris)
 - [2021 SwiftUI Tutorial for Beginners (3.5 hour Masterclass)](https://www.youtube.com/watch?v=F2ojC6TNwws&ab_channel=CodeWithChris)
-- [Swift Tutorial For Beginners [Full Course] Learn Swift For iOS Development](https://www.youtube.com/watch?v=mhE-Mp07RTo&ab_channel=Devslopes)
 - [Swift Programming Tutorial | FULL COURSE | Absolute Beginner](https://www.youtube.com/watch?v=CwA1VWP0Ldw&ab_channel=SeanAllen)
 - [Swift Programming Tutorial for Beginners (Full Tutorial)](https://www.youtube.com/watch?v=Ulp1Kimblg0&ab_channel=CodeWithChris)
 
@@ -1392,7 +1432,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Practice Python](https://www.practicepython.org/)
 - [The Python Guru](https://thepythonguru.com/)
 - [The Coder's Apprentice](https://www.spronck.net/pythonbook/)
-- [Python Principles](https://pythonprinciples.com/)
 - [Harvard's CS50 Python Video](https://pll.harvard.edu/course/cs50s-introduction-programming-python?delta=0)
 - [Cracking Codes With Python](https://inventwithpython.com/cracking/)
 - [Learn Python, Break Python](https://learnpythonbreakpython.com/)
@@ -1479,7 +1518,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Python Tutorials - Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 - [Advanced Python - Complete Course](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
 - [Python Tutorials for Absolute Beginners - CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
-- [Learn Python The Complete Python Programming Course](https://www.youtube.com/playlist?list=PL0-4oWTgb_cl_FQ66HvBx0g5-LZjnLl8o)
 - [100 Days of Code - Learn Python Programming!](https://www.youtube.com/playlist?list=PLSzsOkUDsvdvGZ2fXGizY_Iz9j8-ZlLqh)
 - [Python (Full Course) - QAFox](https://www.youtube.com/playlist?list=PLsjUcU8CQXGGqjSvX8h5JQIymbYfzEMWd)
 - [Python Full Course - Jennys Lectures](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bZSiqiOL5ta39vSnBxpOPT)
@@ -1488,7 +1526,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [NetAcad Python Course Labs](https://www.youtube.com/playlist?list=PL6Tc4k6dl9kLk8cDwImy1Q6a9buJkvsEJ)
 - [Data Analysis with Python Course](https://www.youtube.com/playlist?list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ)
 - [30 day Basic to Advanced Python Course](https://www.youtube.com/playlist?list=PL3DVGRBD_QUrqjmkhf8cK038fiZhge7bu)
-- [Python Course - Masai](https://www.youtube.com/playlist?list=PLD6vB9VKZ11lm3iP5riJtgDDtDbd9Jq4Y)
 - [Python Hacking Course Beginner To Advance!](https://www.youtube.com/watch?v=Wfe1q7nx8WU&ab_channel=TheHackingCoach)
 - [Ethical Hacking using Python | Password Cracker Using Python | Edureka](https://www.youtube.com/watch?v=CV_mMAYzTxw&ab_channel=edureka%21)
 - [Complete Python Hacking Course: Beginner To Advance](https://www.youtube.com/watch?v=7T_xVBwFdJA&ab_channel=AleksaTamburkovski)
@@ -1519,15 +1556,12 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Curso de Docker Completo - Cultura DevOps](https://www.youtube.com/playlist?list=PLdOotbFwzDIjPK7wcu4MBCZhm9Lj6mX11)
 
 > Cursos para aprender Docker em Inglês
-- [Runnable, Slash Docker](https://runnable.com/docker/)
 - [Docker, Docker 101 Tutorial](https://www.docker.com/101-tutorial/)
 - [Online IT Guru, Docker Tutorial](https://onlineitguru.com/docker-training)
 - [Tutorials Point, Docker Tutorial](https://www.tutorialspoint.com/docker/index.htm)
 - [Andrew Odewahn, Docker Jumpstart](https://odewahn.github.io/docker-jumpstart/)
-- [Romin Irani, Docker Tutorial Series](https://rominirani.com/docker-tutorial-series-a7e6ff90a023?gi=4504494d886a)
 - [LearnDocker Online](https://learndocker.online/)
 - [Noureddin Sadawi, Docker Training](https://www.youtube.com/playlist?list=PLea0WJq13cnDsF4MrbNaw3b4jI0GT9yKt)
-- [Learn2torials, Latest Docker Tutorials](https://learn2torials.com/category/docker)
 - [Docker Curriculum, Docker For Beginners](https://docker-curriculum.com/)
 - [Jake Wright, Learn Docker In 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24&ab_channel=JakeWright)
 - [Digital Ocean, How To Install And Use Docker](https://www.digitalocean.com/community/tutorial_collections/how-to-install-and-use-docker)
@@ -1537,7 +1571,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Collabnix, The #1 Docker Tutorials, Docker Labs](https://dockerlabs.collabnix.com/)
 - [Servers For Hackers, Getting Started With Docker](https://serversforhackers.com/c/getting-started-with-docker)
 - [Dive Into Docker, The Complete Course](https://diveintodocker.com/)
-- [Hashnode, Docker Tutorial For Beginners](https://hashnode.com/post/docker-tutorial-for-beginners-cjrj2hg5001s2ufs1nker9he2)
 - [Docker Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
 - [Docker Tutorial for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=freeCodeCamp.org)
 - [Docker Tutorial for Beginners - Programming with Mosh](https://www.youtube.com/watch?v=pTFZFxd4hOI&ab_channel=ProgrammingwithMosh)
@@ -1617,5 +1650,27 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🎓 Certificações para Cyber Security
 
-- [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
+- [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) - Mapa visual com centenas de certificações da área, organizado por nível e especialização.
   ![Logo](https://i.imgur.com/azUfcQp.png)
+
+
+> Entrada
+
+- [ISC2 Certified in Cybersecurity (CC)](https://www.isc2.org/certifications/cc) - Certificação de entrada gratuita da ISC2 (inclui curso de preparação gratuito).
+- [CompTIA Security+](https://www.comptia.org/en-us/certifications/security/) - Certificação de entrada amplamente reconhecida pelo mercado, cobre fundamentos de segurança.
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) - Certificado profissional do Google via Coursera, com trilha estruturada para iniciantes. Curso pago (bolsas disponíveis).
+
+> Ofensiva (pentest e red team)
+
+- [CompTIA PenTest+](https://www.comptia.org/en-us/certifications/pentest/) - Certificação intermediária focada em testes de penetração e gestão de vulnerabilidades.
+- [Hack The Box CPTS](https://academy.hackthebox.com/) - Certificação prática de pentest da Hack The Box Academy, com exame hands-on. Curso pago.
+
+> Defensiva, cloud e gestão
+
+- [ISC2 CISSP](https://www.isc2.org/certifications/cissp) - Certificação sênior de gestão de segurança da informação, referência internacional.
+- [CompTIA CySA+](https://www.comptia.org/en-us/certifications/cybersecurity-analyst/) - Certificação focada em análise comportamental e detecção de ameaças (blue team).
+- [ISC2 CCSP](https://www.isc2.org/certifications/ccsp) - Certificação de segurança em nuvem, mantida em conjunto com a Cloud Security Alliance.
+- [Microsoft Certified: Security Operations Analyst Associate (SC-200)](https://learn.microsoft.com/pt-br/credentials/certifications/security-operations-analyst/) - Certificação Microsoft para analistas de operações de segurança (SOC).
+- [Microsoft Certified: Azure Security Engineer Associate (AZ-500)](https://learn.microsoft.com/pt-br/credentials/certifications/azure-security-engineer/) - Certificação Microsoft para segurança em ambientes Azure.
+- [Google Cloud Professional Cloud Security Engineer](https://cloud.google.com/learn/certification/cloud-security-engineer?hl=pt-br) - Certificação de segurança em nuvem do Google Cloud.
+- [Blue Team Level 1 (CENTRI, ex-Security Blue Team)](https://www.centri.org/certifications/blue-team-level-1) - Certificação prática e acessível voltada para analistas de SOC iniciantes. Curso pago.
