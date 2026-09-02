@@ -439,6 +439,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [CRT sh](https://crt.sh/) - Procure por certificados que foram registrados pelo CT.
 - [Wigle](https://www.wigle.net/) - Banco de dados de redes sem fio, com estatísticas.
 - [PublicWWW](https://publicwww.com/) - Pesquisa de marketing e marketing de afiliados.
+- [SearchWebCode](https://www.searchwebcode.com/) - Busca por string exata ou regex no codigo-fonte HTML, JS e CSS de 129 milhoes de sites.
 - [Binary Edge](https://www.binaryedge.io/) - Verifica a Internet em busca de inteligência de ameaças.
 - [GreyNoise](https://www.greynoise.io/) - Procure dispositivos conectados à internet.
 - [Hunter](https://hunter.io/) - Pesquise endereços de e-mail pertencentes a um site.
