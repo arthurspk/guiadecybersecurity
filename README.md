@@ -133,6 +133,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Linguee](https://www.linguee.com.br/ingles-portugues/traducao/translate.html)
 - [DeepL](https://www.deepl.com/pt-BR/translator)
 - [Reverso](https://context.reverso.net/traducao/ingles-portugues/translate)
+- [HumanPen](https://humanpen.net/pt/translate) - Tradução de documentos para português; 10 créditos/1.000 palavras (mín. 10/tarefa); 100 créditos no cadastro, uma única vez.
 
 ## 🧥 Introdução a área de Cyber Security
 > Também chamada de segurança de computadores ou segurança da tecnologia da informação, a cybersecurity é a prática de proteção de hardwares e softwares contra roubo ou danos, como servidores, dispositivos móveis, redes e aplicativos, as pessoas que atuam na área de Cyber Security de uma empresa são responsáveis por identificar todos os pontos vulneráveis do negócio no ambiente digital e em variados sistemas, o trabalho consiste em mapear todos os pontos fracos, que podem ser usados como porta de acesso para ataques virtuais. Além disso, é importante simular todos os possíveis ataques que poderiam ser realizados e criar proteções contra eles, antevendo os fatos para poder reforçar a segurança das informações e a redundância dos processos e sistemas de bancos de dados, a fim de evitar que haja interrupção de serviços, de uma forma geral, é esperado que as pessoas que trabalham com Cyber Security realizem uma série de atividades, tais como:
