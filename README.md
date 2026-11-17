@@ -133,6 +133,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Linguee](https://www.linguee.com.br/ingles-portugues/traducao/translate.html)
 - [DeepL](https://www.deepl.com/pt-BR/translator)
 - [Reverso](https://context.reverso.net/traducao/ingles-portugues/translate)
+
 - [HumanPen](https://humanpen.net/pt/translate) - Tradução de documentos para português; 10 créditos/1.000 palavras (mín. 10/tarefa); 100 créditos no cadastro, uma única vez.
 
 ## 🧥 Introdução a área de Cyber Security
